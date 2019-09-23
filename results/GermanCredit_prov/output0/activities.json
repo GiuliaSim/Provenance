@@ -1,106 +1,80 @@
-{
-    "function:6e91806e-29be-4440-a74c-7e151c596119": {
+[
+    {
         "function name": "Feature Transformation",
         "features name": "checking",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:0c924558-8e53-45bd-9165-ab3908c49ee2"
     },
-    "function:d9821baa-39f1-4094-bd1f-287ea20fc573": {
+    {
         "function name": "Feature Transformation",
         "features name": "credit_history",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:63ea27a3-c321-4cfc-bf6f-81c6d7cb9041"
     },
-    "function:12037206-9bbd-4b4b-8693-85418b036939": {
+    {
         "function name": "Feature Transformation",
         "features name": "purpose",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:12d82a23-a990-4dd0-8c10-97d2fc51dac2"
     },
-    "function:646c5060-d901-4c2a-9c2c-eca734a86ffc": {
+    {
         "function name": "Feature Transformation",
         "features name": "savings",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:4ad2b5fb-bbe0-4fb2-8b2b-fb16462e8258"
     },
-    "function:e1d0d025-5356-4ece-a00e-5612d6ef8fbe": {
+    {
         "function name": "Feature Transformation",
         "features name": "employment",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:2c0d17b8-d36a-4a8b-899a-6ccc37d5c7fd"
     },
-    "function:8cd9a88f-75a0-4467-919b-4ff075af9506": {
+    {
         "function name": "Feature Transformation",
         "features name": "other_debtors",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:a911854e-8f11-44ec-9ec3-e2c6b47e2d85"
     },
-    "function:af6610bd-5c4b-47cd-936e-5627353973ec": {
+    {
         "function name": "Feature Transformation",
         "features name": "property",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:ce33b82d-e323-43af-a174-6634cdb041ee"
     },
-    "function:2822bac6-bdc8-4b66-8145-63b01354cc8d": {
+    {
         "function name": "Feature Transformation",
         "features name": "other_inst",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:ec8d710c-11cf-42f9-bd2b-45f4bb4886da"
     },
-    "function:48ce1439-53cb-4d56-93cd-66c01833a7ac": {
+    {
         "function name": "Feature Transformation",
         "features name": "housing",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:1a841974-c41c-4956-a771-1fd736143a68"
     },
-    "function:69332c29-596c-4a99-9534-93a4e5979459": {
+    {
         "function name": "Feature Transformation",
         "features name": "job",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:dee97100-052e-454e-887f-3d012e50fc5b"
     },
-    "function:f324589f-f941-4761-83e3-5d478ef07024": {
+    {
         "function name": "Feature Transformation",
         "features name": "phone",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:e5b27ccd-4735-44a2-9ad1-10f2d5d1361d"
     },
-    "function:8724534c-517a-4525-bf31-19251816bc6c": {
+    {
         "function name": "Feature Transformation",
         "features name": "foreigner",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:d6b10184-7c43-4adc-8a10-0c7e007c4438"
     },
-    "function:47616331-01f8-4585-80ba-9522bdb1dc47": {
+    {
         "function name": "Feature Transformation",
         "features name": "label",
-        "operation number": {
-            "$": 0,
-            "type": "xsd:int"
-        }
+        "operation number": "0",
+        "id": "function:5b253dc2-82ff-4c88-9aa6-df0ec3a2147e"
     }
-}
+]

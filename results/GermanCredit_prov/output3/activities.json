@@ -1,90 +1,68 @@
-{
-    "function:6f5bf6cf-6361-496a-8779-a7943bf53719": {
+[
+    {
         "function name": "OneHot Encoding",
         "features name": "checking",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:877526a8-4d76-40d9-81e5-433574121691"
     },
-    "function:6767e09a-0077-43fc-96af-4209f6cd3128": {
+    {
         "function name": "OneHot Encoding",
         "features name": "credit_history",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:bb75e294-9dba-48db-a1f9-e32b6b29f0c6"
     },
-    "function:45be3558-9589-4797-8f05-745f94e67f7c": {
+    {
         "function name": "OneHot Encoding",
         "features name": "purpose",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:323234a9-a8af-496d-b7f6-5c3ec7ab9134"
     },
-    "function:ad4cf4ed-0b6e-445d-b52d-b05e36b5bd7f": {
+    {
         "function name": "OneHot Encoding",
         "features name": "savings",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:645da61d-d73e-4c45-8446-627e66a27b99"
     },
-    "function:97fb16b8-b9d3-412c-9d48-a05d0a0ca451": {
+    {
         "function name": "OneHot Encoding",
         "features name": "employment",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:ab9972cc-7da0-44b3-b232-055d3a5fec6a"
     },
-    "function:218cb45e-c5a0-47c4-adc9-8f5d6b120c57": {
+    {
         "function name": "OneHot Encoding",
         "features name": "other_debtors",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:3b5e5ab4-a81b-4885-98a9-b26924718776"
     },
-    "function:477b0beb-16ce-47c3-95fb-8168bf40f579": {
+    {
         "function name": "OneHot Encoding",
         "features name": "property",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:6b3d0b4a-8d18-445a-a7cf-b58f453c5d4f"
     },
-    "function:14d0df1e-dadb-45df-90e7-10185883912e": {
+    {
         "function name": "OneHot Encoding",
         "features name": "other_inst",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:8e227e0c-084a-4c1d-9cdd-e3092c232b38"
     },
-    "function:65364e5c-5b75-42f3-8a2c-86032a3d29fd": {
+    {
         "function name": "OneHot Encoding",
         "features name": "housing",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:33516d6d-6ad9-476d-8043-2b3ff4e71b7e"
     },
-    "function:20cb6d41-5282-4f3a-a891-73797af2f5bb": {
+    {
         "function name": "OneHot Encoding",
         "features name": "job",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:eac363b3-14dc-48f5-92a7-63e8e5af9ac7"
     },
-    "function:3c0e3cf0-f534-4dda-a8a8-67150e201af3": {
+    {
         "function name": "OneHot Encoding",
         "features name": "status",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "function:dec60a3b-0d69-466e-b8a8-bab6d353945b"
     }
-}
+]

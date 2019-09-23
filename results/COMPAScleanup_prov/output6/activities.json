@@ -1,0 +1,10 @@
+{
+    "function:fc81bce0-ac88-499f-946c-2e338368c341": {
+        "function name": "Feature Transformation",
+        "features name": "c_charge_degree",
+        "operation number": {
+            "$": 6,
+            "type": "xsd:int"
+        }
+    }
+}

@@ -1,10 +1,8 @@
-{
-    "function:12a62b2c-deac-4412-93cb-3ee2cc98416f": {
+[
+    {
         "function name": "Drop",
         "features name": "personal_status",
-        "operation number": {
-            "$": 2,
-            "type": "xsd:int"
-        }
+        "operation number": "2",
+        "id": "function:ace22544-6de5-47bb-afb4-d5104110e1b2"
     }
-}
+]
