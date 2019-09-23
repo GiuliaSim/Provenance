@@ -1,0 +1,147 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "activity": {
+    "function:c03c17d2-31e6-4030-9d32-993454f9abad": {
+      "function name": "Instance Generation",
+      "features name": "age",
+      "operation number": {
+        "$": 0,
+        "type": "xsd:int"
+      }
+    },
+    "function:6cb68ae2-226b-4b88-8e5f-cac483072c05": {
+      "function name": "Instance Generation",
+      "features name": "c_charge_degree",
+      "operation number": {
+        "$": 0,
+        "type": "xsd:int"
+      }
+    },
+    "function:79c2c7ab-3c2f-4295-8dbe-f1df79ff38aa": {
+      "function name": "Instance Generation",
+      "features name": "race",
+      "operation number": {
+        "$": 0,
+        "type": "xsd:int"
+      }
+    }
+  },
+  "entity": {
+    "entity:c39a93ff-ea5c-4c25-8ec3-b0f4e1a62f63": {
+      "value": "69",
+      "feature name": "age",
+      "instance": "output0"
+    },
+    "entity:cee7a2ff-510e-4391-9e8e-62fff15d467c": {
+      "value": "34",
+      "feature name": "age",
+      "instance": "output0"
+    },
+    "entity:c834c184-e5a0-4183-b849-ebb49702bc6a": {
+      "value": "24",
+      "feature name": "age",
+      "instance": "output0"
+    },
+    "entity:58209368-8b06-4f45-a799-35b92aa9b4cb": {
+      "value": "69",
+      "feature name": "age",
+      "instance": "output0"
+    },
+    "entity:e152be76-e06c-48b9-983c-a63778ebbeea": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "output0"
+    },
+    "entity:917e68c9-ef21-441e-ac3a-468b6b539260": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "output0"
+    },
+    "entity:fd33e281-f355-455a-a9c5-5e193fc73699": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "output0"
+    },
+    "entity:aee274dd-5279-46ff-a734-e4201abd69f5": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "output0"
+    },
+    "entity:2032dd4f-2a04-4148-a114-d71a7575f6a2": {
+      "value": "Other",
+      "feature name": "race",
+      "instance": "output0"
+    },
+    "entity:1e36836b-7644-4342-b922-b1d477b02b9c": {
+      "value": "African-American",
+      "feature name": "race",
+      "instance": "output0"
+    },
+    "entity:af926c59-5bc1-4d7d-aceb-a7f86a3a27e5": {
+      "value": "African-American",
+      "feature name": "race",
+      "instance": "output0"
+    },
+    "entity:d628e2c3-3fac-406a-adb7-5987676216d5": {
+      "value": "Other",
+      "feature name": "race",
+      "instance": "output0"
+    }
+  },
+  "used": {
+    "_:id1": {
+      "prov:activity": "function:c03c17d2-31e6-4030-9d32-993454f9abad",
+      "prov:entity": "entity:c39a93ff-ea5c-4c25-8ec3-b0f4e1a62f63"
+    },
+    "_:id2": {
+      "prov:activity": "function:c03c17d2-31e6-4030-9d32-993454f9abad",
+      "prov:entity": "entity:cee7a2ff-510e-4391-9e8e-62fff15d467c"
+    },
+    "_:id3": {
+      "prov:activity": "function:c03c17d2-31e6-4030-9d32-993454f9abad",
+      "prov:entity": "entity:c834c184-e5a0-4183-b849-ebb49702bc6a"
+    },
+    "_:id5": {
+      "prov:activity": "function:6cb68ae2-226b-4b88-8e5f-cac483072c05",
+      "prov:entity": "entity:e152be76-e06c-48b9-983c-a63778ebbeea"
+    },
+    "_:id6": {
+      "prov:activity": "function:6cb68ae2-226b-4b88-8e5f-cac483072c05",
+      "prov:entity": "entity:917e68c9-ef21-441e-ac3a-468b6b539260"
+    },
+    "_:id7": {
+      "prov:activity": "function:6cb68ae2-226b-4b88-8e5f-cac483072c05",
+      "prov:entity": "entity:fd33e281-f355-455a-a9c5-5e193fc73699"
+    },
+    "_:id9": {
+      "prov:activity": "function:79c2c7ab-3c2f-4295-8dbe-f1df79ff38aa",
+      "prov:entity": "entity:2032dd4f-2a04-4148-a114-d71a7575f6a2"
+    },
+    "_:id10": {
+      "prov:activity": "function:79c2c7ab-3c2f-4295-8dbe-f1df79ff38aa",
+      "prov:entity": "entity:1e36836b-7644-4342-b922-b1d477b02b9c"
+    },
+    "_:id11": {
+      "prov:activity": "function:79c2c7ab-3c2f-4295-8dbe-f1df79ff38aa",
+      "prov:entity": "entity:af926c59-5bc1-4d7d-aceb-a7f86a3a27e5"
+    }
+  },
+  "wasGeneratedBy": {
+    "_:id4": {
+      "prov:entity": "entity:58209368-8b06-4f45-a799-35b92aa9b4cb",
+      "prov:activity": "function:c03c17d2-31e6-4030-9d32-993454f9abad"
+    },
+    "_:id8": {
+      "prov:entity": "entity:aee274dd-5279-46ff-a734-e4201abd69f5",
+      "prov:activity": "function:6cb68ae2-226b-4b88-8e5f-cac483072c05"
+    },
+    "_:id12": {
+      "prov:entity": "entity:d628e2c3-3fac-406a-adb7-5987676216d5",
+      "prov:activity": "function:79c2c7ab-3c2f-4295-8dbe-f1df79ff38aa"
+    }
+  }
+}

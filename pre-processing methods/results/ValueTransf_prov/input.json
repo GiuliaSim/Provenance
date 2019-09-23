@@ -1,0 +1,54 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "entity": {
+    "entity:6abef361-e13e-454b-8fac-e7b83bf271e3": {
+      "value": "39",
+      "feature name": "age",
+      "instance": "input"
+    },
+    "entity:019830d1-06f8-4ede-a14b-e964258fa988": {
+      "value": " State-gov",
+      "feature name": "workclass",
+      "instance": "input"
+    },
+    "entity:3e8a81b7-1951-416b-b67b-77e9204c65c4": {
+      "value": " Bachelors",
+      "feature name": "education",
+      "instance": "input"
+    },
+    "entity:b08d81ef-542e-4be6-bc43-e97a867b866e": {
+      "value": "50",
+      "feature name": "age",
+      "instance": "input"
+    },
+    "entity:8253653c-627c-47b3-8af6-b2cdc2e1c8e7": {
+      "value": " Self-emp-not-inc",
+      "feature name": "workclass",
+      "instance": "input"
+    },
+    "entity:97be774a-88b2-47b9-8faf-429bdb11edc8": {
+      "value": " Bachelors",
+      "feature name": "education",
+      "instance": "input"
+    },
+    "entity:4a0ebc70-1780-4bff-a9c5-dbd785d86349": {
+      "value": "38",
+      "feature name": "age",
+      "instance": "input"
+    },
+    "entity:bb1d421e-9738-4117-b680-f1cf8cf7297a": {
+      "value": " Private",
+      "feature name": "workclass",
+      "instance": "input"
+    },
+    "entity:b39b53e9-4993-4c39-889d-daef123e6c4d": {
+      "value": " HS-grad",
+      "feature name": "education",
+      "instance": "input"
+    }
+  }
+}

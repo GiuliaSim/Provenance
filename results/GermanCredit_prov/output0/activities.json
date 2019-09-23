@@ -1,0 +1,106 @@
+{
+    "function:edeb71ed-bcef-4d6d-a9f0-9e6e2187c4eb": {
+        "function name": "Feature Transformation",
+        "features name": "checking",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:caedde34-ab64-4489-923a-7858cc06ac46": {
+        "function name": "Feature Transformation",
+        "features name": "credit_history",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:322aeed3-cedd-4a43-ad18-0830630e9df3": {
+        "function name": "Feature Transformation",
+        "features name": "purpose",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:f974ffeb-9517-4238-8be6-1d8cd6b08be8": {
+        "function name": "Feature Transformation",
+        "features name": "savings",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:fb2ae9c5-34c4-4f2f-9d3b-78060a6b931c": {
+        "function name": "Feature Transformation",
+        "features name": "employment",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:2bab4858-d038-47a0-982e-56d43aadca85": {
+        "function name": "Feature Transformation",
+        "features name": "other_debtors",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:1b49a66b-ff17-4725-bbfa-4218b9b12701": {
+        "function name": "Feature Transformation",
+        "features name": "property",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:6add0ff9-95e7-47fa-8ab3-bfd2844d0f08": {
+        "function name": "Feature Transformation",
+        "features name": "other_inst",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:ae847e04-e4f6-4f79-b638-1719b051b822": {
+        "function name": "Feature Transformation",
+        "features name": "housing",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:599d6189-901c-42fc-afbb-fee12240e701": {
+        "function name": "Feature Transformation",
+        "features name": "job",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:7a3c5e07-19f7-4c6e-8cbf-2dd9dc243944": {
+        "function name": "Feature Transformation",
+        "features name": "phone",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:077e1735-3a0c-4b4b-a487-d8fa333fcbe5": {
+        "function name": "Feature Transformation",
+        "features name": "foreigner",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    },
+    "function:4c969304-72b3-4a5e-b30d-67f1fe81be45": {
+        "function name": "Feature Transformation",
+        "features name": "label",
+        "operation number": {
+            "$": 0,
+            "type": "xsd:int"
+        }
+    }
+}

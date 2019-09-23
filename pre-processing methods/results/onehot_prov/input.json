@@ -1,0 +1,69 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "entity": {
+    "entity:80dc8804-3172-49ad-89d2-ee89bcd7ba1d": {
+      "value": "check_low",
+      "feature name": "checking",
+      "instance": "input"
+    },
+    "entity:829019e7-4ee5-4bfb-addb-84d3b80e0de5": {
+      "value": "6",
+      "feature name": "duration",
+      "instance": "input"
+    },
+    "entity:b84e3350-2589-4806-a7d5-e6acc61694ec": {
+      "value": "debt_critical",
+      "feature name": "credit_history",
+      "instance": "input"
+    },
+    "entity:2bb52b3c-81e6-4ccc-9cb3-a706399bee1e": {
+      "value": "check_mid",
+      "feature name": "checking",
+      "instance": "input"
+    },
+    "entity:dd5e35fa-f68f-4878-8846-1600ea15e4b1": {
+      "value": "48",
+      "feature name": "duration",
+      "instance": "input"
+    },
+    "entity:e1cc6617-46b8-410b-a244-008727c7b2b2": {
+      "value": "debt_onSchedule",
+      "feature name": "credit_history",
+      "instance": "input"
+    },
+    "entity:728380a7-aae5-4418-923e-8bca288d439b": {
+      "value": "check_none",
+      "feature name": "checking",
+      "instance": "input"
+    },
+    "entity:f7fcddb5-5167-4bbb-9307-8322c79b8c43": {
+      "value": "12",
+      "feature name": "duration",
+      "instance": "input"
+    },
+    "entity:bc9f48b2-c228-4191-b0f1-679fc345969d": {
+      "value": "debt_critical",
+      "feature name": "credit_history",
+      "instance": "input"
+    },
+    "entity:3292ff11-38ca-49e2-980c-f982e12fc303": {
+      "value": "check_low",
+      "feature name": "checking",
+      "instance": "input"
+    },
+    "entity:ad5d022f-b9aa-466a-b198-3b9f20b61be7": {
+      "value": "42",
+      "feature name": "duration",
+      "instance": "input"
+    },
+    "entity:efa9f656-e3bc-4b08-96a0-05644af37ed9": {
+      "value": "debt_onSchedule",
+      "feature name": "credit_history",
+      "instance": "input"
+    }
+  }
+}

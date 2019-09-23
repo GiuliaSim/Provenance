@@ -1,0 +1,69 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "entity": {
+    "entity:33aa7aa0-e2be-460f-9bc9-2fb3fcf01c4a": {
+      "value": " State-gov",
+      "feature name": "workclass",
+      "instance": "input"
+    },
+    "entity:1a6dbe75-d2dd-4067-a958-1edfb60b2e90": {
+      "value": " White",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:14661b6d-2a26-49b7-953f-cd15aa689cef": {
+      "value": " Male",
+      "feature name": "sex",
+      "instance": "input"
+    },
+    "entity:50580be8-783e-4972-ab0c-e9295e347976": {
+      "value": " <=50K",
+      "feature name": "label",
+      "instance": "input"
+    },
+    "entity:0563ba35-6794-4be6-9512-fc9ea07a03b9": {
+      "value": " Self-emp-not-inc",
+      "feature name": "workclass",
+      "instance": "input"
+    },
+    "entity:513b6b7a-d7d2-48ac-8496-ed9b2a15c2cc": {
+      "value": " White",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:2283c8cd-a83c-40d9-baee-8a7cef795e5c": {
+      "value": " Male",
+      "feature name": "sex",
+      "instance": "input"
+    },
+    "entity:dc1c9020-fb8f-4674-90dd-69a4321e9979": {
+      "value": " <=50K",
+      "feature name": "label",
+      "instance": "input"
+    },
+    "entity:75dfb4dd-02e6-4604-b8f6-c1ce23fa2075": {
+      "value": " Private",
+      "feature name": "workclass",
+      "instance": "input"
+    },
+    "entity:8fe0a8b2-7b00-43aa-bfd5-560a1b0c26fa": {
+      "value": " White",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:21e6f390-4022-4e2d-ad60-3c2453ffc75f": {
+      "value": " Male",
+      "feature name": "sex",
+      "instance": "input"
+    },
+    "entity:3b4dade7-6b4c-4e7d-8b68-3d6353d6bc42": {
+      "value": " <=50K",
+      "feature name": "label",
+      "instance": "input"
+    }
+  }
+}

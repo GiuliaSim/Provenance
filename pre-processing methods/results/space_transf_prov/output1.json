@@ -1,0 +1,75 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "activity": {
+    "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63": {
+      "function name": "Drop",
+      "features name": "c_jail_in, c_jail_out",
+      "operation number": {
+        "$": 1,
+        "type": "xsd:int"
+      }
+    }
+  },
+  "entity": {
+    "entity:3123fa2b-106c-424e-b156-fbeeb3880058": {
+      "value": "69",
+      "feature name": "age",
+      "instance": "output1"
+    },
+    "entity:c1373ba0-16bf-4dbb-b641-d529ea4d9eb9": {
+      "value": "0",
+      "feature name": "jailtime",
+      "instance": "output1"
+    },
+    "entity:6e37e77e-c4bd-411c-968c-be84fb057ed2": {
+      "value": "34",
+      "feature name": "age",
+      "instance": "output1"
+    },
+    "entity:00ac6b2f-d526-41d1-b05a-10af8a7c2492": {
+      "value": "10",
+      "feature name": "jailtime",
+      "instance": "output1"
+    },
+    "entity:644e4923-a094-41c0-84b7-2c925922557f": {
+      "value": "24",
+      "feature name": "age",
+      "instance": "output1"
+    },
+    "entity:145b1d32-17c0-4160-ac68-29deaf5cd02a": {
+      "value": "1",
+      "feature name": "jailtime",
+      "instance": "output1"
+    }
+  },
+  "wasInvalidatedBy": {
+    "_:id1": {
+      "prov:entity": "entity:748e4fb0-8c58-45e0-aed9-1832e838028c",
+      "prov:activity": "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63"
+    },
+    "_:id2": {
+      "prov:entity": "entity:4686c8b3-433f-417c-ba08-8e5b5a9ff3a8",
+      "prov:activity": "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63"
+    },
+    "_:id3": {
+      "prov:entity": "entity:21645dbe-7a43-4300-8f64-11b5c7972a1f",
+      "prov:activity": "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63"
+    },
+    "_:id4": {
+      "prov:entity": "entity:e296f0cc-19af-4177-91b3-b15dc804805e",
+      "prov:activity": "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63"
+    },
+    "_:id5": {
+      "prov:entity": "entity:1aedecbf-6b0f-4d89-9e55-89f64ecdfa55",
+      "prov:activity": "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63"
+    },
+    "_:id6": {
+      "prov:entity": "entity:c6b42e7d-f27b-4fd9-896a-7f5d2abde986",
+      "prov:activity": "function:e0ad0ade-ebd8-4203-98ce-af2dc66c7b63"
+    }
+  }
+}

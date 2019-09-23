@@ -1,0 +1,10 @@
+{
+    "function:d01abe1e-c4f4-496d-9ca0-9ad0f18f1a0d": {
+        "function name": "Space Transformation",
+        "features name": "personal_status",
+        "operation number": {
+            "$": 1,
+            "type": "xsd:int"
+        }
+    }
+}

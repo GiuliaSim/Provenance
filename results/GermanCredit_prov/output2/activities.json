@@ -1,0 +1,10 @@
+{
+    "function:be5ca79d-fd5f-4e4d-a1bd-ff6cc4af1f90": {
+        "function name": "Drop",
+        "features name": "personal_status",
+        "operation number": {
+            "$": 2,
+            "type": "xsd:int"
+        }
+    }
+}

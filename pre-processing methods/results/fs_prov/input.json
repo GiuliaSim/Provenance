@@ -1,0 +1,39 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "entity": {
+    "entity:19aebb30-5f66-49c0-aa7b-367cad43beeb": {
+      "value": "69",
+      "feature name": "age",
+      "instance": "input"
+    },
+    "entity:4b50b5a7-1937-4bd9-8c47-2772d18976b7": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "input"
+    },
+    "entity:27893cf7-2311-4cd9-aa69-16399889fc28": {
+      "value": "Other",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:0372af28-0de9-4154-a933-e38f945adbd2": {
+      "value": "34",
+      "feature name": "age",
+      "instance": "input"
+    },
+    "entity:a933e30b-89b9-4e01-a0ac-f681701be0a0": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "input"
+    },
+    "entity:6ec94e21-3534-48da-8a09-acbb397a3ae2": {
+      "value": "African-American",
+      "feature name": "race",
+      "instance": "input"
+    }
+  }
+}

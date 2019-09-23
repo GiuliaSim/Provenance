@@ -1,0 +1,54 @@
+{
+  "prefix": {
+    "function": "function/",
+    "entity": "entity/",
+    "default": "default/"
+  },
+  "entity": {
+    "entity:3f91e683-4862-4d61-98dd-9b728bc5033d": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "input"
+    },
+    "entity:6c77f10b-cc8d-4678-8c6f-e1aeef7cbd34": {
+      "value": "Other",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:c3d2d373-5ab5-4b35-aa79-9c6e23cf77c7": {
+      "value": "Male",
+      "feature name": "sex",
+      "instance": "input"
+    },
+    "entity:cb544e0a-9b08-4c9a-80c0-d85b5fc89c81": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "input"
+    },
+    "entity:e61c247d-a188-41e1-b62a-7b6ddc6b5e41": {
+      "value": "African-American",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:e3d1cb5c-2e70-4a48-8869-67da919c8127": {
+      "value": "Male",
+      "feature name": "sex",
+      "instance": "input"
+    },
+    "entity:dd5d8d1b-9911-412c-8dc7-a76b32e629b1": {
+      "value": "F",
+      "feature name": "c_charge_degree",
+      "instance": "input"
+    },
+    "entity:d97c5032-d800-4251-a750-d940f0caff65": {
+      "value": "African-American",
+      "feature name": "race",
+      "instance": "input"
+    },
+    "entity:e5ed995f-99ff-4d3b-8564-e5c7402d3015": {
+      "value": "Male",
+      "feature name": "sex",
+      "instance": "input"
+    }
+  }
+}
