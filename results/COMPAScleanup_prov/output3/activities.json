@@ -1,10 +1,8 @@
-{
-    "function:397d1083-3bbf-4ca6-a001-829d6cff2caa": {
+[
+    {
         "function name": "Feature Transformation",
         "features name": "label",
-        "operation number": {
-            "$": 3,
-            "type": "xsd:int"
-        }
+        "operation number": "3",
+        "id": "activity:73429e05-d992-439f-8659-f5908e00d1ae"
     }
-}
+]

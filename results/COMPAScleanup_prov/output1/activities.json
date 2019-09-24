@@ -1,10 +1,8 @@
-{
-    "function:afebae0a-e4f6-4a55-a82f-3fa149649441": {
+[
+    {
         "function name": "Drop",
         "features name": "",
-        "operation number": {
-            "$": 1,
-            "type": "xsd:int"
-        }
+        "operation number": "1",
+        "id": "activity:870612c9-1a3b-4857-89ce-463a1b0cc960"
     }
-}
+]

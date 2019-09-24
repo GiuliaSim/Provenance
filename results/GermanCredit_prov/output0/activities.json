@@ -3,78 +3,78 @@
         "function name": "Feature Transformation",
         "features name": "checking",
         "operation number": "0",
-        "id": "function:238c46f9-c76a-4073-ab1c-3253f429336f"
+        "id": "activity:05308091-5d2d-4d99-826e-d09c1ac2c50a"
     },
     {
         "function name": "Feature Transformation",
         "features name": "credit_history",
         "operation number": "0",
-        "id": "function:79a2fb84-2bb7-4add-a11e-bf6fb0705d3e"
+        "id": "activity:ad2e8c22-2456-4a4f-af45-09adf3af668d"
     },
     {
         "function name": "Feature Transformation",
         "features name": "purpose",
         "operation number": "0",
-        "id": "function:00f53a16-a0c2-40c4-b206-f27b5e670e17"
+        "id": "activity:fcc7d407-f986-46fe-a686-a7920fddbe0b"
     },
     {
         "function name": "Feature Transformation",
         "features name": "savings",
         "operation number": "0",
-        "id": "function:094c16dc-31ad-46e9-a347-d0d09643e3b4"
+        "id": "activity:37d222de-945f-444f-b8bc-2e9af7ff8d19"
     },
     {
         "function name": "Feature Transformation",
         "features name": "employment",
         "operation number": "0",
-        "id": "function:b669f61b-bee4-42fc-9382-0f222b5d3de1"
+        "id": "activity:10c8ec56-835f-4160-b821-759a3058d438"
     },
     {
         "function name": "Feature Transformation",
         "features name": "other_debtors",
         "operation number": "0",
-        "id": "function:90117531-7fed-465e-9a52-bac460939597"
+        "id": "activity:27acd441-ae84-4adc-917c-4fef1deb2efb"
     },
     {
         "function name": "Feature Transformation",
         "features name": "property",
         "operation number": "0",
-        "id": "function:bb790129-9ed8-4575-bda0-b3b44e07354a"
+        "id": "activity:f82204ce-606e-45cd-b6b9-e42d085db0df"
     },
     {
         "function name": "Feature Transformation",
         "features name": "other_inst",
         "operation number": "0",
-        "id": "function:1d89068d-a40f-45a3-91e4-3f5fa2db53c4"
+        "id": "activity:0657d9d3-642b-4ec2-9e45-153a2a5a2b2a"
     },
     {
         "function name": "Feature Transformation",
         "features name": "housing",
         "operation number": "0",
-        "id": "function:552d7751-b205-4937-b7b2-655e50ca3013"
+        "id": "activity:82f7908c-e81b-49a9-913d-acb97c2057bb"
     },
     {
         "function name": "Feature Transformation",
         "features name": "job",
         "operation number": "0",
-        "id": "function:15549a8e-1451-46a7-b822-967f57be2264"
+        "id": "activity:f4b0692e-f38e-4bcf-aeff-9b42b90e0bdf"
     },
     {
         "function name": "Feature Transformation",
         "features name": "phone",
         "operation number": "0",
-        "id": "function:5e664ed5-9381-464f-a58d-7c6685b322d4"
+        "id": "activity:7146ff5b-614b-4cec-90bd-b5690d55d519"
     },
     {
         "function name": "Feature Transformation",
         "features name": "foreigner",
         "operation number": "0",
-        "id": "function:a0945811-8763-47e4-a134-fdae52127d3d"
+        "id": "activity:74c68fd8-7ab0-42ad-b9a2-e2f74ebce5ad"
     },
     {
         "function name": "Feature Transformation",
         "features name": "label",
         "operation number": "0",
-        "id": "function:cb662142-85d0-46f5-84bf-c95724ab42cc"
+        "id": "activity:ced0e462-85b5-4891-9d05-adbd73f6b4d4"
     }
 ]
