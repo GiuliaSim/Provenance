@@ -1,8 +1,10 @@
 [
     {
-        "function name": "Drop",
-        "features name": "c_jail_out, c_jail_in",
-        "operation number": "5",
-        "id": "activity:b3592e68-a0cf-4798-8b32-31ad5e7a44e5"
+        "identifier": "activity:88de67a9-3e83-403e-b893-053a6f17bd75",
+        "attributes": {
+            "function name": "Drop",
+            "features name": "c_jail_out, c_jail_in",
+            "operation number": "5"
+        }
     }
 ]

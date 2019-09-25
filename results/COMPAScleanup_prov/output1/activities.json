@@ -1,8 +1,10 @@
 [
     {
-        "function name": "Drop",
-        "features name": "",
-        "operation number": "1",
-        "id": "activity:870612c9-1a3b-4857-89ce-463a1b0cc960"
+        "identifier": "activity:f89eb0a1-b318-45e1-b673-7a54d5b5d966",
+        "attributes": {
+            "function name": "Drop",
+            "features name": "",
+            "operation number": "1"
+        }
     }
 ]

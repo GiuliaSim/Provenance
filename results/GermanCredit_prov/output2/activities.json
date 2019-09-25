@@ -1,8 +1,10 @@
 [
     {
-        "function name": "Drop",
-        "features name": "personal_status",
-        "operation number": "2",
-        "id": "activity:ce3de551-cfc5-4fa0-a6b2-6a34036fe78b"
+        "identifier": "activity:2824aaf4-acae-43d5-a05e-133d0e87dc24",
+        "attributes": {
+            "function name": "Selection",
+            "features name": "personal_status",
+            "operation number": "2"
+        }
     }
 ]

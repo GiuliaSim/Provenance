@@ -1,0 +1,74 @@
+[
+    {
+        "identifier": "activity:8a5099f0-1cfc-4257-9c52-5677637d7ad8",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "workclass",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:cb1d81b8-9b17-41c4-b756-2ade5314bb8c",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "education",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:81d1d84a-baf9-4708-a8b8-4aa23efc1ca6",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "marital-status",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:1d5aae0f-a691-440a-889c-3fe14f6917c3",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "occupation",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:c8701f47-903e-441e-a7d8-31c23ba963f3",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "relationship",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:f9fe88ef-a89e-440e-988d-9426a12ca68c",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "race",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:346acb78-acc5-4972-a86d-a7d6fefa2cba",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "sex",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:8af6f855-5372-41d1-9648-2f35df16aab0",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "native-country",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:050533ff-d98f-4de7-af92-9a38b080fa84",
+        "attributes": {
+            "function name": "Cleanup names from spaces",
+            "features name": "label",
+            "operation number": "0"
+        }
+    }
+]

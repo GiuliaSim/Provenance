@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "activity:2f2a3ef6-09a5-40ca-a9be-abb815fcd02c",
+        "attributes": {
+            "function name": "Assign sex and label binary values 0 and 1",
+            "features name": "sex",
+            "operation number": "3"
+        }
+    },
+    {
+        "identifier": "activity:cbcdd961-3e8a-4f4d-9a9d-8546034990e5",
+        "attributes": {
+            "function name": "Assign sex and label binary values 0 and 1",
+            "features name": "label",
+            "operation number": "3"
+        }
+    }
+]

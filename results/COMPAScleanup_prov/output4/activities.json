@@ -1,8 +1,10 @@
 [
     {
-        "function name": "Space Transformation",
-        "features name": "c_jail_out, c_jail_in",
-        "operation number": "4",
-        "id": "activity:93864a68-5e71-435b-8d84-1ccb07a0b059"
+        "identifier": "activity:af349cd3-16eb-474e-9028-1933210d159c",
+        "attributes": {
+            "function name": "Space Transformation",
+            "features name": "c_jail_out, c_jail_in",
+            "operation number": "4"
+        }
     }
 ]

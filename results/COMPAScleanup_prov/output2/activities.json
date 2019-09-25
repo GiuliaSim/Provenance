@@ -1,8 +1,10 @@
 [
     {
-        "function name": "Binarizer",
-        "features name": "race",
-        "operation number": "2",
-        "id": "activity:2d305e89-8170-46a1-86a1-63e7a776f3d2"
+        "identifier": "activity:7f107aaa-5206-4ce5-86a2-b8d5dd2a9dca",
+        "attributes": {
+            "function name": "Binarizer",
+            "features name": "race",
+            "operation number": "2"
+        }
     }
 ]

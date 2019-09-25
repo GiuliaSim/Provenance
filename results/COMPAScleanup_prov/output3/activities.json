@@ -1,8 +1,10 @@
 [
     {
-        "function name": "Feature Transformation",
-        "features name": "label",
-        "operation number": "3",
-        "id": "activity:73429e05-d992-439f-8659-f5908e00d1ae"
+        "identifier": "activity:cc8c237c-35e2-4000-8b90-87aa44dedc9b",
+        "attributes": {
+            "function name": "Feature Transformation",
+            "features name": "label",
+            "operation number": "3"
+        }
     }
 ]
