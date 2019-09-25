@@ -1,0 +1,32 @@
+[
+    {
+        "prov:entity": "entity:e15ece90-5878-429a-a746-cc633c454b81",
+        "prov:activity": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "prov:relation_type": "wasInvalidatedBy"
+    },
+    {
+        "prov:entity": "entity:5e33783a-9c07-4b1a-b5bf-362ba9f73cc7",
+        "prov:activity": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "prov:relation_type": "wasInvalidatedBy"
+    },
+    {
+        "prov:entity": "entity:a205cee5-b476-4362-b23f-4efac1240e8f",
+        "prov:activity": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "prov:relation_type": "wasInvalidatedBy"
+    },
+    {
+        "prov:entity": "entity:9395250c-7aab-4a73-b8f4-b19c3139e34e",
+        "prov:activity": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "prov:relation_type": "wasInvalidatedBy"
+    },
+    {
+        "prov:entity": "entity:64aab789-31d3-4ad6-83b1-4af811b436c4",
+        "prov:activity": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "prov:relation_type": "wasInvalidatedBy"
+    },
+    {
+        "prov:entity": "entity:c5e676b4-23f2-46ad-bdaf-098540ee732a",
+        "prov:activity": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "prov:relation_type": "wasInvalidatedBy"
+    }
+]

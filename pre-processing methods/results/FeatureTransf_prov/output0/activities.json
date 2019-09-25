@@ -1,0 +1,26 @@
+[
+    {
+        "identifier": "activity:8922a5f3-b7ad-4c2e-a206-fa7c7ecbe09a",
+        "attributes": {
+            "function name": "Feature Transformation",
+            "features name": "workclass",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:82373793-b7e8-4839-a456-acfb0c1fe29e",
+        "attributes": {
+            "function name": "Feature Transformation",
+            "features name": "sex",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:66b49a1b-1e0f-4cea-9900-e2deed562210",
+        "attributes": {
+            "function name": "Feature Transformation",
+            "features name": "label",
+            "operation number": "0"
+        }
+    }
+]

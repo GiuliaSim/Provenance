@@ -1,0 +1,98 @@
+[
+    {
+        "identifier": "entity:743fd260-088e-483d-b915-71a66426019c",
+        "attributes": {
+            "value": "State-gov",
+            "feature name": "workclass",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:cebae8dc-4882-4604-a3f8-7ee0e99a8978",
+        "attributes": {
+            "value": " White",
+            "feature name": "race",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:46dbb883-bc5e-4fa2-b8e6-f936efdd8219",
+        "attributes": {
+            "value": "Male",
+            "feature name": "sex",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:b1792957-ecc8-4dd8-8286-6dd70093a5bf",
+        "attributes": {
+            "value": "<=50K",
+            "feature name": "label",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:edf7163f-741a-4227-8eda-ff90ecd98c40",
+        "attributes": {
+            "value": "Self-emp-not-inc",
+            "feature name": "workclass",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:7e5868a2-ff98-4c2c-b777-3179cb8c1e75",
+        "attributes": {
+            "value": " White",
+            "feature name": "race",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:667d3090-a354-4c61-bcaa-85ab3d186657",
+        "attributes": {
+            "value": "Male",
+            "feature name": "sex",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:9813372b-33fa-4706-a5f2-c86a46da89a4",
+        "attributes": {
+            "value": "<=50K",
+            "feature name": "label",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:c18ff333-a9f9-478e-bfb8-87cee09192ab",
+        "attributes": {
+            "value": "Private",
+            "feature name": "workclass",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:13ad555e-89d6-433b-b3bc-d71959d8814f",
+        "attributes": {
+            "value": " White",
+            "feature name": "race",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:88c4aa98-4f53-4efe-8853-cfd9d98bb85c",
+        "attributes": {
+            "value": "Male",
+            "feature name": "sex",
+            "instance": "output0"
+        }
+    },
+    {
+        "identifier": "entity:156e60a6-a81c-4eac-a89e-9342de041432",
+        "attributes": {
+            "value": "<=50K",
+            "feature name": "label",
+            "instance": "output0"
+        }
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:entity": "entity:e15ece90-5878-429a-a746-cc633c454b81",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:entity": "entity:5e33783a-9c07-4b1a-b5bf-362ba9f73cc7",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:entity": "entity:a205cee5-b476-4362-b23f-4efac1240e8f",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:entity": "entity:9395250c-7aab-4a73-b8f4-b19c3139e34e",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:entity": "entity:64aab789-31d3-4ad6-83b1-4af811b436c4",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:entity": "entity:c5e676b4-23f2-46ad-bdaf-098540ee732a",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:entity": "entity:29d8204e-5129-40c9-8a98-8162c7e3d9ce",
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:relation_type": "wasGeneratedBy"
+    },
+    {
+        "prov:generatedEntity": "entity:29d8204e-5129-40c9-8a98-8162c7e3d9ce",
+        "prov:usedEntity": "entity:5e33783a-9c07-4b1a-b5bf-362ba9f73cc7",
+        "prov:relation_type": "wasDerivedFrom"
+    },
+    {
+        "prov:generatedEntity": "entity:29d8204e-5129-40c9-8a98-8162c7e3d9ce",
+        "prov:usedEntity": "entity:e15ece90-5878-429a-a746-cc633c454b81",
+        "prov:relation_type": "wasDerivedFrom"
+    },
+    {
+        "prov:entity": "entity:0c3378ec-e0ad-4427-bdb4-f1ac14222cf5",
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:relation_type": "wasGeneratedBy"
+    },
+    {
+        "prov:generatedEntity": "entity:0c3378ec-e0ad-4427-bdb4-f1ac14222cf5",
+        "prov:usedEntity": "entity:9395250c-7aab-4a73-b8f4-b19c3139e34e",
+        "prov:relation_type": "wasDerivedFrom"
+    },
+    {
+        "prov:generatedEntity": "entity:0c3378ec-e0ad-4427-bdb4-f1ac14222cf5",
+        "prov:usedEntity": "entity:a205cee5-b476-4362-b23f-4efac1240e8f",
+        "prov:relation_type": "wasDerivedFrom"
+    },
+    {
+        "prov:entity": "entity:2a5fad62-5f55-4e64-a2bd-197ddca878e7",
+        "prov:activity": "activity:e69c3f43-451c-466e-aad6-87c7d1c76a1e",
+        "prov:relation_type": "wasGeneratedBy"
+    },
+    {
+        "prov:generatedEntity": "entity:2a5fad62-5f55-4e64-a2bd-197ddca878e7",
+        "prov:usedEntity": "entity:c5e676b4-23f2-46ad-bdaf-098540ee732a",
+        "prov:relation_type": "wasDerivedFrom"
+    },
+    {
+        "prov:generatedEntity": "entity:2a5fad62-5f55-4e64-a2bd-197ddca878e7",
+        "prov:usedEntity": "entity:64aab789-31d3-4ad6-83b1-4af811b436c4",
+        "prov:relation_type": "wasDerivedFrom"
+    }
+]

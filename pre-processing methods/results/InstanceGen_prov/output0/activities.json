@@ -1,0 +1,26 @@
+[
+    {
+        "identifier": "activity:92552598-ad40-47d4-ba29-fd5c9e01fffc",
+        "attributes": {
+            "function name": "Instance Generation",
+            "features name": "age",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:ba243607-0b7d-4317-bbf0-bc4a64c65305",
+        "attributes": {
+            "function name": "Instance Generation",
+            "features name": "c_charge_degree",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:046e9e47-937e-4353-8e8b-68130258ed5b",
+        "attributes": {
+            "function name": "Instance Generation",
+            "features name": "race",
+            "operation number": "0"
+        }
+    }
+]

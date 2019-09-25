@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "activity:1f6637e6-b545-48d5-bce0-0e7e589190dc",
+        "attributes": {
+            "function name": "OneHot Encoding",
+            "features name": "checking",
+            "operation number": "0"
+        }
+    },
+    {
+        "identifier": "activity:7712a5ef-9da6-4411-af3b-bb47e4ec3fd5",
+        "attributes": {
+            "function name": "OneHot Encoding",
+            "features name": "credit_history",
+            "operation number": "0"
+        }
+    }
+]

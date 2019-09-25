@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "activity:4711918c-c427-45b0-8e29-751e7066120e",
+        "attributes": {
+            "function name": "Feature Selection",
+            "features name": "c_charge_degree",
+            "operation number": "0"
+        }
+    }
+]

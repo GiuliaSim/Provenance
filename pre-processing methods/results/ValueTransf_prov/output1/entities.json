@@ -1,0 +1,74 @@
+[
+    {
+        "identifier": "entity:3eda95a4-f76a-4290-a1f0-d562cb5fb920",
+        "attributes": {
+            "value": "39",
+            "feature name": "age",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:aa9a86ec-ee03-4dbd-9ba1-b64853c5f3b5",
+        "attributes": {
+            "value": " State-gov",
+            "feature name": "workclass",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:196536e9-eabb-45bc-9bbf-02f2b7a03011",
+        "attributes": {
+            "value": "nan",
+            "feature name": "education",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:6fca523a-8bd0-4d7b-94f6-058f57847a3c",
+        "attributes": {
+            "value": "50",
+            "feature name": "age",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:73a5e403-fc65-4ad0-bc8c-2a16c791241f",
+        "attributes": {
+            "value": " Self-emp-not-inc",
+            "feature name": "workclass",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:f09fa669-ecff-418f-ae6b-5e526b6ca179",
+        "attributes": {
+            "value": "nan",
+            "feature name": "education",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:7da2904f-ac51-448e-bd5a-75916ac3c6bb",
+        "attributes": {
+            "value": "38",
+            "feature name": "age",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:6d20d4ff-a1ea-4d65-87f7-11956362b32f",
+        "attributes": {
+            "value": " Private",
+            "feature name": "workclass",
+            "instance": "output1"
+        }
+    },
+    {
+        "identifier": "entity:3ceaf45f-2f54-4a28-a866-a80dfe692bb0",
+        "attributes": {
+            "value": " HS-grad",
+            "feature name": "education",
+            "instance": "output1"
+        }
+    }
+]

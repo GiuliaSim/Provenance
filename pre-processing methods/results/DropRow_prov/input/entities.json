@@ -1,0 +1,74 @@
+[
+    {
+        "identifier": "entity:1ebb7cf4-96a2-4b37-8ec3-f783ee6c4d7a",
+        "attributes": {
+            "value": "F",
+            "feature name": "c_charge_degree",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:688da9d2-4578-4274-aedf-6602f3fc2153",
+        "attributes": {
+            "value": "Other",
+            "feature name": "race",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:0d81248d-9f60-43f8-8a36-7e36355d38a9",
+        "attributes": {
+            "value": "Male",
+            "feature name": "sex",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:bc2ca468-4f92-44ec-984c-c298ae50d568",
+        "attributes": {
+            "value": "F",
+            "feature name": "c_charge_degree",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:c1500356-edf5-4767-a590-6a8d9b06787d",
+        "attributes": {
+            "value": "African-American",
+            "feature name": "race",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:938f9cb9-65af-412a-91f2-a063b1d03c78",
+        "attributes": {
+            "value": "Male",
+            "feature name": "sex",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:ad3f291d-b392-43e6-a491-ff6a35c062c2",
+        "attributes": {
+            "value": "F",
+            "feature name": "c_charge_degree",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:fda6db6a-e66a-4182-b5fc-9b526135820f",
+        "attributes": {
+            "value": "African-American",
+            "feature name": "race",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:48f32357-13a7-4cdc-b009-c849b100196e",
+        "attributes": {
+            "value": "Male",
+            "feature name": "sex",
+            "instance": "input"
+        }
+    }
+]

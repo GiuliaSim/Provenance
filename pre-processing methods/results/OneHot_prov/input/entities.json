@@ -1,0 +1,98 @@
+[
+    {
+        "identifier": "entity:653c9c74-0295-4760-9bae-943b970fbf86",
+        "attributes": {
+            "value": "check_low",
+            "feature name": "checking",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:97f00121-d046-4756-9ab7-9f9cedc25320",
+        "attributes": {
+            "value": "6",
+            "feature name": "duration",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:3cf13ae8-261c-4e2b-9bd6-00b40a92751f",
+        "attributes": {
+            "value": "debt_critical",
+            "feature name": "credit_history",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:a0db4a21-8d7c-4e95-9f2f-653a5d104663",
+        "attributes": {
+            "value": "check_mid",
+            "feature name": "checking",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:6c093765-df4e-42dc-93e2-7a4e8edfdab6",
+        "attributes": {
+            "value": "48",
+            "feature name": "duration",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:44a86a47-9f9e-4cd2-84ae-17d271df4ab4",
+        "attributes": {
+            "value": "debt_onSchedule",
+            "feature name": "credit_history",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:fd853d9d-ad4b-4b4d-ae39-c0e4f033f988",
+        "attributes": {
+            "value": "check_none",
+            "feature name": "checking",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:13d4d018-e347-42a0-a67e-ea456292480a",
+        "attributes": {
+            "value": "12",
+            "feature name": "duration",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:5c8ba407-78f1-43a5-a0a3-372d6dcdd34d",
+        "attributes": {
+            "value": "debt_critical",
+            "feature name": "credit_history",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:36f50c0a-35fa-471b-8742-5a3a031366dc",
+        "attributes": {
+            "value": "check_low",
+            "feature name": "checking",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:e2011ba5-c61b-459c-8d7f-d249f049d462",
+        "attributes": {
+            "value": "42",
+            "feature name": "duration",
+            "instance": "input"
+        }
+    },
+    {
+        "identifier": "entity:3b140bdd-5c2a-4a95-bdba-994db7a89b56",
+        "attributes": {
+            "value": "debt_onSchedule",
+            "feature name": "credit_history",
+            "instance": "input"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "prov:entity": "entity:992746e9-dfb4-4414-876e-946a19e8d84e",
+        "prov:activity": "activity:a25c4470-9400-4da5-a253-8c89061aa328",
+        "prov:relation_type": "wasGeneratedBy"
+    },
+    {
+        "prov:activity": "activity:a25c4470-9400-4da5-a253-8c89061aa328",
+        "prov:entity": "entity:eeb21bfe-a5f5-4205-894a-1b2bc080b4ce",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:generatedEntity": "entity:992746e9-dfb4-4414-876e-946a19e8d84e",
+        "prov:usedEntity": "entity:eeb21bfe-a5f5-4205-894a-1b2bc080b4ce",
+        "prov:relation_type": "wasDerivedFrom"
+    },
+    {
+        "prov:entity": "entity:77a4ad74-e7f9-4b4e-bc0f-0efdd95b1b61",
+        "prov:activity": "activity:a25c4470-9400-4da5-a253-8c89061aa328",
+        "prov:relation_type": "wasGeneratedBy"
+    },
+    {
+        "prov:activity": "activity:a25c4470-9400-4da5-a253-8c89061aa328",
+        "prov:entity": "entity:59c8805a-ccbf-460f-a977-d5a46791199e",
+        "prov:relation_type": "used"
+    },
+    {
+        "prov:generatedEntity": "entity:77a4ad74-e7f9-4b4e-bc0f-0efdd95b1b61",
+        "prov:usedEntity": "entity:59c8805a-ccbf-460f-a977-d5a46791199e",
+        "prov:relation_type": "wasDerivedFrom"
+    }
+]
