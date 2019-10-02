@@ -1,98 +1,194 @@
 [
     {
-        "identifier": "entity:653c9c74-0295-4760-9bae-943b970fbf86",
+        "identifier": "entity:485669d6-bb2e-4e6f-93a0-a21fa7cc742e",
         "attributes": {
-            "value": "check_low",
-            "feature name": "checking",
-            "instance": "input"
-        }
-    },
-    {
-        "identifier": "entity:97f00121-d046-4756-9ab7-9f9cedc25320",
-        "attributes": {
+            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
             "value": "6",
-            "feature name": "duration",
-            "instance": "input"
+            "feature_name": "duration"
         }
     },
     {
-        "identifier": "entity:3cf13ae8-261c-4e2b-9bd6-00b40a92751f",
+        "identifier": "entity:7a61c2d4-a060-4ccd-a4c3-715a4b9b239a",
         "attributes": {
-            "value": "debt_critical",
-            "feature name": "credit_history",
-            "instance": "input"
+            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "value": "1",
+            "feature_name": "check_low"
         }
     },
     {
-        "identifier": "entity:a0db4a21-8d7c-4e95-9f2f-653a5d104663",
+        "identifier": "entity:101d6be4-91a8-4878-9a89-61acbecb10a1",
         "attributes": {
-            "value": "check_mid",
-            "feature name": "checking",
-            "instance": "input"
+            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "value": "0",
+            "feature_name": "check_mid"
         }
     },
     {
-        "identifier": "entity:6c093765-df4e-42dc-93e2-7a4e8edfdab6",
+        "identifier": "entity:166aa3bd-cb0b-48e6-8270-e863ea6dd178",
         "attributes": {
+            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "value": "0",
+            "feature_name": "check_none"
+        }
+    },
+    {
+        "identifier": "entity:8358a498-f5c1-42c4-9cba-a8f222b617a8",
+        "attributes": {
+            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "value": "1",
+            "feature_name": "debt_critical"
+        }
+    },
+    {
+        "identifier": "entity:17b56169-7907-48e4-96ef-dc933f767dd3",
+        "attributes": {
+            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "value": "0",
+            "feature_name": "debt_onSchedule"
+        }
+    },
+    {
+        "identifier": "entity:820ed1da-506e-4aad-9f8d-6fd104d188c2",
+        "attributes": {
+            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
             "value": "48",
-            "feature name": "duration",
-            "instance": "input"
+            "feature_name": "duration"
         }
     },
     {
-        "identifier": "entity:44a86a47-9f9e-4cd2-84ae-17d271df4ab4",
+        "identifier": "entity:b586ab5d-09c7-4112-b7ff-f28b0acfae0d",
         "attributes": {
-            "value": "debt_onSchedule",
-            "feature name": "credit_history",
-            "instance": "input"
+            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "value": "0",
+            "feature_name": "check_low"
         }
     },
     {
-        "identifier": "entity:fd853d9d-ad4b-4b4d-ae39-c0e4f033f988",
+        "identifier": "entity:aa499abc-507d-40d3-a8ba-c358a86d9b74",
         "attributes": {
-            "value": "check_none",
-            "feature name": "checking",
-            "instance": "input"
+            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "value": "1",
+            "feature_name": "check_mid"
         }
     },
     {
-        "identifier": "entity:13d4d018-e347-42a0-a67e-ea456292480a",
+        "identifier": "entity:ade9c70f-1992-4898-8ba5-6919e4282149",
         "attributes": {
+            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "value": "0",
+            "feature_name": "check_none"
+        }
+    },
+    {
+        "identifier": "entity:207f3464-fc50-4238-a690-25ff45280590",
+        "attributes": {
+            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "value": "0",
+            "feature_name": "debt_critical"
+        }
+    },
+    {
+        "identifier": "entity:b3bc6e7c-0112-4b48-b6e6-108a67b34000",
+        "attributes": {
+            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "value": "1",
+            "feature_name": "debt_onSchedule"
+        }
+    },
+    {
+        "identifier": "entity:6c37b1f9-550f-4bbf-95f5-68a6dcabc516",
+        "attributes": {
+            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
             "value": "12",
-            "feature name": "duration",
-            "instance": "input"
+            "feature_name": "duration"
         }
     },
     {
-        "identifier": "entity:5c8ba407-78f1-43a5-a0a3-372d6dcdd34d",
+        "identifier": "entity:58c426d3-a4af-4429-813b-aff508db51e8",
         "attributes": {
-            "value": "debt_critical",
-            "feature name": "credit_history",
-            "instance": "input"
+            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "value": "0",
+            "feature_name": "check_low"
         }
     },
     {
-        "identifier": "entity:36f50c0a-35fa-471b-8742-5a3a031366dc",
+        "identifier": "entity:41a54615-33a1-43a4-9849-362ec3d54d1d",
         "attributes": {
-            "value": "check_low",
-            "feature name": "checking",
-            "instance": "input"
+            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "value": "0",
+            "feature_name": "check_mid"
         }
     },
     {
-        "identifier": "entity:e2011ba5-c61b-459c-8d7f-d249f049d462",
+        "identifier": "entity:dc557637-98e2-48e8-976f-cf01064cbfe6",
         "attributes": {
+            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "value": "1",
+            "feature_name": "check_none"
+        }
+    },
+    {
+        "identifier": "entity:48362262-5832-48c1-b666-687cb02e0efb",
+        "attributes": {
+            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "value": "1",
+            "feature_name": "debt_critical"
+        }
+    },
+    {
+        "identifier": "entity:7d44068a-a6b0-4201-97bc-32035070f61d",
+        "attributes": {
+            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "value": "0",
+            "feature_name": "debt_onSchedule"
+        }
+    },
+    {
+        "identifier": "entity:916f561a-6f33-4e47-bc05-c0007a1e1f96",
+        "attributes": {
+            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
             "value": "42",
-            "feature name": "duration",
-            "instance": "input"
+            "feature_name": "duration"
         }
     },
     {
-        "identifier": "entity:3b140bdd-5c2a-4a95-bdba-994db7a89b56",
+        "identifier": "entity:7fb367aa-577a-4ac6-ba54-f95b783b0443",
         "attributes": {
-            "value": "debt_onSchedule",
-            "feature name": "credit_history",
-            "instance": "input"
+            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "value": "1",
+            "feature_name": "check_low"
+        }
+    },
+    {
+        "identifier": "entity:b58d0c5d-c7ef-4586-b5a8-26cbcbed32c4",
+        "attributes": {
+            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "value": "0",
+            "feature_name": "check_mid"
+        }
+    },
+    {
+        "identifier": "entity:dd45aa01-719e-484b-97c7-dead8ee14141",
+        "attributes": {
+            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "value": "0",
+            "feature_name": "check_none"
+        }
+    },
+    {
+        "identifier": "entity:2bcb1036-1c6d-4d78-bcfb-c6d695765cb9",
+        "attributes": {
+            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "value": "0",
+            "feature_name": "debt_critical"
+        }
+    },
+    {
+        "identifier": "entity:07317ed9-d7da-4d18-821c-3ac4ddc26cc0",
+        "attributes": {
+            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "value": "1",
+            "feature_name": "debt_onSchedule"
         }
     }
 ]

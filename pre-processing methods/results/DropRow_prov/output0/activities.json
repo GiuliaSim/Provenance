@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:205d6200-ac71-41df-9046-5f8608e2af4a",
+        "identifier": "activity:de6165e1-3b0c-4e4a-8bf3-41d091ee1988",
         "attributes": {
-            "function name": "Selection",
-            "features name": "",
-            "operation number": "0"
+            "function_name": "Drop",
+            "features_name": "",
+            "operation_number": "0"
         }
     }
 ]

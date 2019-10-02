@@ -1,12 +1,12 @@
 [
     {
-        "prov:entity": "entity:1fd3adda-e3a6-4d04-bded-d4682ec8f64f",
-        "prov:activity": "activity:4711918c-c427-45b0-8e29-751e7066120e",
+        "prov:entity": "entity:fd6bca89-6c4a-4602-86c5-82600e72809c",
+        "prov:activity": "activity:5f6a1c33-2daa-403d-842b-51678ce2d408",
         "prov:relation_type": "wasInvalidatedBy"
     },
     {
-        "prov:entity": "entity:1a070608-83ab-4227-b393-abdf4107d522",
-        "prov:activity": "activity:4711918c-c427-45b0-8e29-751e7066120e",
+        "prov:entity": "entity:e9cfba05-5ca8-4b42-8b0c-05019710b10d",
+        "prov:activity": "activity:5f6a1c33-2daa-403d-842b-51678ce2d408",
         "prov:relation_type": "wasInvalidatedBy"
     }
 ]

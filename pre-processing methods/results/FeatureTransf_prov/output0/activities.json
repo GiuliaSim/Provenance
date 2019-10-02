@@ -1,26 +1,26 @@
 [
     {
-        "identifier": "activity:8922a5f3-b7ad-4c2e-a206-fa7c7ecbe09a",
+        "identifier": "activity:5116de4b-077c-40e9-9194-47c8f7b9379d",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "workclass",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "workclass",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:82373793-b7e8-4839-a456-acfb0c1fe29e",
+        "identifier": "activity:cb9797d4-6a6d-4be9-af61-6a9a5c7cf9f3",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "sex",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "sex",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:66b49a1b-1e0f-4cea-9900-e2deed562210",
+        "identifier": "activity:2503b8b5-1237-4158-ab9d-f84972946aed",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "label",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "label",
+            "operation_number": "0"
         }
     }
 ]

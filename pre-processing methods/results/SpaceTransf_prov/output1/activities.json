@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:4d614185-fcad-4dfb-bd7b-b2262c6432d3",
+        "identifier": "activity:16d3d5ff-dbcc-4cbb-9055-0591a22d9672",
         "attributes": {
-            "function name": "Selection",
-            "features name": "c_jail_out, c_jail_in",
-            "operation number": "1"
+            "function_name": "Drop",
+            "features_name": "c_jail_in, c_jail_out",
+            "operation_number": "1"
         }
     }
 ]

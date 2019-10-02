@@ -1,9 +1,9 @@
 [
     {
-        "identifier": "activity:a25c4470-9400-4da5-a253-8c89061aa328",
+        "identifier": "activity:a83d5491-d6f7-4d5a-9506-d1a0ffb8a146",
         "attributes": {
-            "function name": "Value Transformation",
-            "operation number": "0"
+            "function_name": "Value Transformation",
+            "operation_number": "0"
         }
     }
 ]

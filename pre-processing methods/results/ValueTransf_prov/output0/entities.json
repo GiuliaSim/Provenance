@@ -1,74 +1,74 @@
 [
     {
-        "identifier": "entity:3eda95a4-f76a-4290-a1f0-d562cb5fb920",
+        "identifier": "entity:8c24def9-175c-4642-9136-a85668f496d3",
         "attributes": {
+            "record_id": "203d4581-8f74-4bcb-bf3f-d672a01afb8f",
             "value": "39",
-            "feature name": "age",
-            "instance": "output0"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:aa9a86ec-ee03-4dbd-9ba1-b64853c5f3b5",
+        "identifier": "entity:ca736177-4150-4bf5-8aec-72cd72b2d758",
         "attributes": {
+            "record_id": "203d4581-8f74-4bcb-bf3f-d672a01afb8f",
             "value": " State-gov",
-            "feature name": "workclass",
-            "instance": "output0"
+            "feature_name": "workclass"
         }
     },
     {
-        "identifier": "entity:992746e9-dfb4-4414-876e-946a19e8d84e",
+        "identifier": "entity:63284ba5-9670-47a0-bb63-888ab1fba75d",
         "attributes": {
+            "record_id": "203d4581-8f74-4bcb-bf3f-d672a01afb8f",
             "value": "nan",
-            "feature name": "education",
-            "instance": "output0"
+            "feature_name": "education"
         }
     },
     {
-        "identifier": "entity:6fca523a-8bd0-4d7b-94f6-058f57847a3c",
+        "identifier": "entity:05bd2ba0-a21f-4279-9d3e-4bee9e5b956c",
         "attributes": {
+            "record_id": "aa38d145-23ed-4582-87ae-b88e199dc0da",
             "value": "50",
-            "feature name": "age",
-            "instance": "output0"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:73a5e403-fc65-4ad0-bc8c-2a16c791241f",
+        "identifier": "entity:44f44fe3-4a24-45cb-8b37-5e2faff1fc01",
         "attributes": {
+            "record_id": "aa38d145-23ed-4582-87ae-b88e199dc0da",
             "value": " Self-emp-not-inc",
-            "feature name": "workclass",
-            "instance": "output0"
+            "feature_name": "workclass"
         }
     },
     {
-        "identifier": "entity:77a4ad74-e7f9-4b4e-bc0f-0efdd95b1b61",
+        "identifier": "entity:6ad98003-0a07-4f4b-bc95-86db9bfec543",
         "attributes": {
+            "record_id": "aa38d145-23ed-4582-87ae-b88e199dc0da",
             "value": "nan",
-            "feature name": "education",
-            "instance": "output0"
+            "feature_name": "education"
         }
     },
     {
-        "identifier": "entity:7da2904f-ac51-448e-bd5a-75916ac3c6bb",
+        "identifier": "entity:a7847ae9-8995-4de7-9197-9ed78a9c4706",
         "attributes": {
+            "record_id": "7d2771bf-8fd8-46a7-b028-9dd15043ad67",
             "value": "38",
-            "feature name": "age",
-            "instance": "output0"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:6d20d4ff-a1ea-4d65-87f7-11956362b32f",
+        "identifier": "entity:b51a98f0-94cb-4bec-b447-2a5a64ba09d0",
         "attributes": {
+            "record_id": "7d2771bf-8fd8-46a7-b028-9dd15043ad67",
             "value": " Private",
-            "feature name": "workclass",
-            "instance": "output0"
+            "feature_name": "workclass"
         }
     },
     {
-        "identifier": "entity:3ceaf45f-2f54-4a28-a866-a80dfe692bb0",
+        "identifier": "entity:eaaeb54c-acc9-4860-ae4e-d8e99c6c328e",
         "attributes": {
+            "record_id": "7d2771bf-8fd8-46a7-b028-9dd15043ad67",
             "value": " HS-grad",
-            "feature name": "education",
-            "instance": "output0"
+            "feature_name": "education"
         }
     }
 ]

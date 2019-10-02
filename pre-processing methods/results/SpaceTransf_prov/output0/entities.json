@@ -1,74 +1,98 @@
 [
     {
-        "identifier": "entity:98b77b27-82c3-4743-8e11-a09d84786ad9",
+        "identifier": "entity:507544d1-7fcc-41d4-9ab9-9131942b90c2",
         "attributes": {
+            "record_id": "175c80bb-6b99-4ea1-ab3c-1b541ef1899e",
             "value": "69",
-            "feature name": "age",
-            "instance": "input"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:e15ece90-5878-429a-a746-cc633c454b81",
+        "identifier": "entity:66a1639d-2257-4b4b-8f10-90eb605c0bb5",
         "attributes": {
+            "record_id": "175c80bb-6b99-4ea1-ab3c-1b541ef1899e",
             "value": "2013-08-13 06:03:42",
-            "feature name": "c_jail_in",
-            "instance": "input"
+            "feature_name": "c_jail_in"
         }
     },
     {
-        "identifier": "entity:5e33783a-9c07-4b1a-b5bf-362ba9f73cc7",
+        "identifier": "entity:bb15df4a-bdd9-48b2-a2fc-94725c6909ba",
         "attributes": {
+            "record_id": "175c80bb-6b99-4ea1-ab3c-1b541ef1899e",
             "value": "2013-08-14 05:41:20",
-            "feature name": "c_jail_out",
-            "instance": "input"
+            "feature_name": "c_jail_out"
         }
     },
     {
-        "identifier": "entity:f819de8b-a0b3-4c75-a483-8704001452a5",
+        "identifier": "entity:802d1f2d-6c8b-4e16-9565-fd0b807985b9",
         "attributes": {
+            "record_id": "175c80bb-6b99-4ea1-ab3c-1b541ef1899e",
+            "value": "0",
+            "feature_name": "jailtime"
+        }
+    },
+    {
+        "identifier": "entity:77c68920-aca7-4c61-ba20-7616f8dce5fc",
+        "attributes": {
+            "record_id": "23d0db5a-046f-4028-8a54-c3252fceddb6",
             "value": "34",
-            "feature name": "age",
-            "instance": "input"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:a205cee5-b476-4362-b23f-4efac1240e8f",
+        "identifier": "entity:6fcae419-db20-4849-8fab-8d4be4847c2f",
         "attributes": {
+            "record_id": "23d0db5a-046f-4028-8a54-c3252fceddb6",
             "value": "2013-01-26 03:45:27",
-            "feature name": "c_jail_in",
-            "instance": "input"
+            "feature_name": "c_jail_in"
         }
     },
     {
-        "identifier": "entity:9395250c-7aab-4a73-b8f4-b19c3139e34e",
+        "identifier": "entity:292b0bc1-9cea-459c-a48b-9c89e9e14b83",
         "attributes": {
+            "record_id": "23d0db5a-046f-4028-8a54-c3252fceddb6",
             "value": "2013-02-05 05:36:53",
-            "feature name": "c_jail_out",
-            "instance": "input"
+            "feature_name": "c_jail_out"
         }
     },
     {
-        "identifier": "entity:f30fef12-020d-4cc6-9e8a-65ddc33df1f3",
+        "identifier": "entity:6f00a5e7-6b94-438c-850c-0b30a3f56ba6",
         "attributes": {
+            "record_id": "23d0db5a-046f-4028-8a54-c3252fceddb6",
+            "value": "10",
+            "feature_name": "jailtime"
+        }
+    },
+    {
+        "identifier": "entity:0333d60b-4cc9-41ba-9395-523385eef2df",
+        "attributes": {
+            "record_id": "c99dd60a-bfb7-4b98-b916-dfeeb385da58",
             "value": "24",
-            "feature name": "age",
-            "instance": "input"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:64aab789-31d3-4ad6-83b1-4af811b436c4",
+        "identifier": "entity:70adca2e-e85c-4e3e-91dd-a5e67211b923",
         "attributes": {
+            "record_id": "c99dd60a-bfb7-4b98-b916-dfeeb385da58",
             "value": "2013-04-13 04:58:34",
-            "feature name": "c_jail_in",
-            "instance": "input"
+            "feature_name": "c_jail_in"
         }
     },
     {
-        "identifier": "entity:c5e676b4-23f2-46ad-bdaf-098540ee732a",
+        "identifier": "entity:6b32fa99-4cf1-44db-987d-4eb2920e6eb0",
         "attributes": {
+            "record_id": "c99dd60a-bfb7-4b98-b916-dfeeb385da58",
             "value": "2013-04-14 07:02:04",
-            "feature name": "c_jail_out",
-            "instance": "input"
+            "feature_name": "c_jail_out"
+        }
+    },
+    {
+        "identifier": "entity:a3cf6d73-ca2f-4abe-9a22-d0d55e8493f5",
+        "attributes": {
+            "record_id": "c99dd60a-bfb7-4b98-b916-dfeeb385da58",
+            "value": "1",
+            "feature_name": "jailtime"
         }
     }
 ]

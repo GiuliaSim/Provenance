@@ -1,98 +1,98 @@
 [
     {
-        "identifier": "entity:93765019-2254-4e68-9a47-b66bf83b0b3a",
+        "identifier": "entity:a09311b0-0039-49c0-8d76-a219954bcaf8",
         "attributes": {
+            "record_id": "357a65fd-e92f-445b-8ee2-234bcdbc6fd1",
             "value": " State-gov",
-            "feature name": "workclass",
-            "instance": "input"
+            "feature_name": "workclass"
         }
     },
     {
-        "identifier": "entity:cebae8dc-4882-4604-a3f8-7ee0e99a8978",
+        "identifier": "entity:7cdc1ec0-2350-4532-9e9a-664995e8a9cd",
         "attributes": {
+            "record_id": "357a65fd-e92f-445b-8ee2-234bcdbc6fd1",
             "value": " White",
-            "feature name": "race",
-            "instance": "input"
+            "feature_name": "race"
         }
     },
     {
-        "identifier": "entity:668aa6ba-2ede-4681-b6f5-8ebc698a3baa",
+        "identifier": "entity:60b1b1d9-52a4-4dd2-abfc-a403a17e4ce8",
         "attributes": {
+            "record_id": "357a65fd-e92f-445b-8ee2-234bcdbc6fd1",
             "value": " Male",
-            "feature name": "sex",
-            "instance": "input"
+            "feature_name": "sex"
         }
     },
     {
-        "identifier": "entity:d2a70fcc-d54c-4556-9112-58e57fec454b",
+        "identifier": "entity:31737e79-7652-4a4a-8b15-b882e12a2489",
         "attributes": {
+            "record_id": "357a65fd-e92f-445b-8ee2-234bcdbc6fd1",
             "value": " <=50K",
-            "feature name": "label",
-            "instance": "input"
+            "feature_name": "label"
         }
     },
     {
-        "identifier": "entity:0061bd89-42a5-43c2-9200-d6773faa9f12",
+        "identifier": "entity:1b6da377-9ebd-4ba7-b24d-eb2a6b6fed7d",
         "attributes": {
+            "record_id": "31a99636-3b9c-4bb3-84c4-25eaa5afdbde",
             "value": " Self-emp-not-inc",
-            "feature name": "workclass",
-            "instance": "input"
+            "feature_name": "workclass"
         }
     },
     {
-        "identifier": "entity:7e5868a2-ff98-4c2c-b777-3179cb8c1e75",
+        "identifier": "entity:befdfa51-81c6-4443-a0b7-ba473028f380",
         "attributes": {
+            "record_id": "31a99636-3b9c-4bb3-84c4-25eaa5afdbde",
             "value": " White",
-            "feature name": "race",
-            "instance": "input"
+            "feature_name": "race"
         }
     },
     {
-        "identifier": "entity:21df0e6d-a52b-4bff-a99d-b633b720bddf",
+        "identifier": "entity:5a882cb1-45c1-4022-8cb0-ab7c1cd1dd8b",
         "attributes": {
+            "record_id": "31a99636-3b9c-4bb3-84c4-25eaa5afdbde",
             "value": " Male",
-            "feature name": "sex",
-            "instance": "input"
+            "feature_name": "sex"
         }
     },
     {
-        "identifier": "entity:60e27bef-352b-4ac2-a260-5be8cb88e15b",
+        "identifier": "entity:c0672b9e-73b0-4a16-b5cd-d0430eb3709e",
         "attributes": {
+            "record_id": "31a99636-3b9c-4bb3-84c4-25eaa5afdbde",
             "value": " <=50K",
-            "feature name": "label",
-            "instance": "input"
+            "feature_name": "label"
         }
     },
     {
-        "identifier": "entity:04e67217-8ce6-47f8-a041-ed5ee243110d",
+        "identifier": "entity:aedffc7c-9cbc-4011-95ca-f0147eaa3300",
         "attributes": {
+            "record_id": "f77e0965-ecd6-4cfe-a5a2-7de3e1cffb0f",
             "value": " Private",
-            "feature name": "workclass",
-            "instance": "input"
+            "feature_name": "workclass"
         }
     },
     {
-        "identifier": "entity:13ad555e-89d6-433b-b3bc-d71959d8814f",
+        "identifier": "entity:82bced5a-4fff-4d72-8a3e-57aebfadfd07",
         "attributes": {
+            "record_id": "f77e0965-ecd6-4cfe-a5a2-7de3e1cffb0f",
             "value": " White",
-            "feature name": "race",
-            "instance": "input"
+            "feature_name": "race"
         }
     },
     {
-        "identifier": "entity:b6bd6fcb-e640-4500-bbfe-47a46bbd1a55",
+        "identifier": "entity:33ceb7b5-6b0c-4c91-9f67-a2452d45a216",
         "attributes": {
+            "record_id": "f77e0965-ecd6-4cfe-a5a2-7de3e1cffb0f",
             "value": " Male",
-            "feature name": "sex",
-            "instance": "input"
+            "feature_name": "sex"
         }
     },
     {
-        "identifier": "entity:15e64d18-53bb-4905-bee0-6ccb97597301",
+        "identifier": "entity:88c6b11c-a353-4ea7-8695-827c30abe04c",
         "attributes": {
+            "record_id": "f77e0965-ecd6-4cfe-a5a2-7de3e1cffb0f",
             "value": " <=50K",
-            "feature name": "label",
-            "instance": "input"
+            "feature_name": "label"
         }
     }
 ]

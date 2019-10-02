@@ -1,50 +1,34 @@
 [
     {
-        "identifier": "entity:0cf02805-4dfe-4c74-abf7-4be53baf323a",
+        "identifier": "entity:012eb056-eb43-413c-aef8-5180eb07074f",
         "attributes": {
+            "record_id": "c5eb300b-8fe6-4ae6-a943-e3f02ebf1474",
             "value": "69",
-            "feature name": "age",
-            "instance": "input"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:1fd3adda-e3a6-4d04-bded-d4682ec8f64f",
+        "identifier": "entity:77665c63-45b8-4fcb-9343-29f05142e675",
         "attributes": {
-            "value": "F",
-            "feature name": "c_charge_degree",
-            "instance": "input"
-        }
-    },
-    {
-        "identifier": "entity:52b690d6-621a-4e65-968b-6ee841c7ce0e",
-        "attributes": {
+            "record_id": "c5eb300b-8fe6-4ae6-a943-e3f02ebf1474",
             "value": "Other",
-            "feature name": "race",
-            "instance": "input"
+            "feature_name": "race"
         }
     },
     {
-        "identifier": "entity:f4bbc5a3-fb02-4f3e-92ec-f0cd7225c858",
+        "identifier": "entity:172ce799-91ef-427e-b4d2-e41adbd37041",
         "attributes": {
+            "record_id": "7c099994-fc0c-48bc-b5a7-ef9b4fa78ae7",
             "value": "34",
-            "feature name": "age",
-            "instance": "input"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:1a070608-83ab-4227-b393-abdf4107d522",
+        "identifier": "entity:69a59193-0fd4-4a5e-bc04-d064508c8e49",
         "attributes": {
-            "value": "F",
-            "feature name": "c_charge_degree",
-            "instance": "input"
-        }
-    },
-    {
-        "identifier": "entity:02c50333-320a-4b21-b391-28e22b166488",
-        "attributes": {
+            "record_id": "7c099994-fc0c-48bc-b5a7-ef9b4fa78ae7",
             "value": "African-American",
-            "feature name": "race",
-            "instance": "input"
+            "feature_name": "race"
         }
     }
 ]

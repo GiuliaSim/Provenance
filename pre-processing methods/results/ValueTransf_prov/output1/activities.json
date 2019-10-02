@@ -1,9 +1,9 @@
 [
     {
-        "identifier": "activity:90a8740d-d05b-4fd8-b728-2f0e666d982b",
+        "identifier": "activity:ad940486-4b4f-4750-acdf-8e8ebdd4a37d",
         "attributes": {
-            "function name": "Imputation",
-            "operation number": "1"
+            "function_name": "Imputation",
+            "operation_number": "1"
         }
     }
 ]

@@ -1,74 +1,74 @@
 [
     {
-        "identifier": "entity:7d0c594b-326a-4ddb-b14f-da2e8e77a671",
+        "identifier": "entity:6c1040f9-5f2f-417a-a424-24689db6279f",
         "attributes": {
+            "record_id": "9a3fae72-76de-4dea-9ddf-eee9b10a9b8c",
             "value": "69",
-            "feature name": "age",
-            "instance": "output0"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:56a9dba6-ba4b-4b02-b9c7-63f8e6e00834",
+        "identifier": "entity:549f2df0-88f1-4646-9273-b8d327ce1a6d",
         "attributes": {
+            "record_id": "9a3fae72-76de-4dea-9ddf-eee9b10a9b8c",
             "value": "F",
-            "feature name": "c_charge_degree",
-            "instance": "output0"
+            "feature_name": "c_charge_degree"
         }
     },
     {
-        "identifier": "entity:923cfac3-dbb0-429a-93dc-e3ed2da776c2",
+        "identifier": "entity:994981ce-7587-4e2c-bab5-41c083c5e03b",
         "attributes": {
+            "record_id": "9a3fae72-76de-4dea-9ddf-eee9b10a9b8c",
             "value": "0",
-            "feature name": "race",
-            "instance": "output0"
+            "feature_name": "race"
         }
     },
     {
-        "identifier": "entity:43460204-1a25-49f7-99a8-13200f71008e",
+        "identifier": "entity:71e08977-b0f1-40d6-96df-ace6b0c44249",
         "attributes": {
+            "record_id": "943b71f7-6d91-42b7-b4b5-72267ba9159a",
             "value": "34",
-            "feature name": "age",
-            "instance": "output0"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:19d04c36-fc95-4232-87d3-6e475ae12b9d",
+        "identifier": "entity:261bfd6d-3604-4b25-94ba-8aab9356183b",
         "attributes": {
+            "record_id": "943b71f7-6d91-42b7-b4b5-72267ba9159a",
             "value": "F",
-            "feature name": "c_charge_degree",
-            "instance": "output0"
+            "feature_name": "c_charge_degree"
         }
     },
     {
-        "identifier": "entity:60d97b05-4df7-40a3-9706-b62126c46a9f",
+        "identifier": "entity:ff167a2f-d4df-4746-855f-50412bf757d9",
         "attributes": {
+            "record_id": "943b71f7-6d91-42b7-b4b5-72267ba9159a",
             "value": "0",
-            "feature name": "race",
-            "instance": "output0"
+            "feature_name": "race"
         }
     },
     {
-        "identifier": "entity:07a5a14f-04f0-40a4-bc15-097b99abe39e",
+        "identifier": "entity:15b8e325-e28e-4073-b386-fa520d614e87",
         "attributes": {
+            "record_id": "e4ff327f-2d4e-4cf6-8088-12172c81f106",
             "value": "24",
-            "feature name": "age",
-            "instance": "output0"
+            "feature_name": "age"
         }
     },
     {
-        "identifier": "entity:07bd8610-6765-449c-9d9a-a147e7b71d9c",
+        "identifier": "entity:ef3f6f32-1e10-4cf7-8531-66b42ac9d0ed",
         "attributes": {
+            "record_id": "e4ff327f-2d4e-4cf6-8088-12172c81f106",
             "value": "F",
-            "feature name": "c_charge_degree",
-            "instance": "output0"
+            "feature_name": "c_charge_degree"
         }
     },
     {
-        "identifier": "entity:161eaaf3-81f4-4351-88fa-ca49130a4cdb",
+        "identifier": "entity:84918c3e-61ea-453c-9941-9463b022ee51",
         "attributes": {
+            "record_id": "e4ff327f-2d4e-4cf6-8088-12172c81f106",
             "value": "0",
-            "feature name": "race",
-            "instance": "output0"
+            "feature_name": "race"
         }
     }
 ]

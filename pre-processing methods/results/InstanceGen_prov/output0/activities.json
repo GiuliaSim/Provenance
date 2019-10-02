@@ -1,26 +1,26 @@
 [
     {
-        "identifier": "activity:92552598-ad40-47d4-ba29-fd5c9e01fffc",
+        "identifier": "activity:7e3cca55-be94-41cc-827d-b028d597c220",
         "attributes": {
-            "function name": "Instance Generation",
-            "features name": "age",
-            "operation number": "0"
+            "function_name": "Instance Generation",
+            "features_name": "age",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:ba243607-0b7d-4317-bbf0-bc4a64c65305",
+        "identifier": "activity:77d4e291-4332-46a8-90ae-3fb09730de27",
         "attributes": {
-            "function name": "Instance Generation",
-            "features name": "c_charge_degree",
-            "operation number": "0"
+            "function_name": "Instance Generation",
+            "features_name": "c_charge_degree",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:046e9e47-937e-4353-8e8b-68130258ed5b",
+        "identifier": "activity:64e8f150-59f5-4332-a20b-d68a5df1d0d5",
         "attributes": {
-            "function name": "Instance Generation",
-            "features name": "race",
-            "operation number": "0"
+            "function_name": "Instance Generation",
+            "features_name": "race",
+            "operation_number": "0"
         }
     }
 ]
