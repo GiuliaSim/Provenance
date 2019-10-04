@@ -1,74 +1,74 @@
 [
     {
-        "identifier": "activity:47e50f4f-97a2-4a9d-a66a-a553ec890a1f",
+        "identifier": "activity:49d653ec-cbfc-474a-8a28-2c937f0e3e5c",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "workclass",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "workclass",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:7fff506d-cac6-4443-a34f-69b03962e48b",
+        "identifier": "activity:f4d7dcd8-1e4e-4e4d-b7ff-fd0d198d7537",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "education",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "education",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:12a1f78f-3f4b-41b9-a173-5b390c157930",
+        "identifier": "activity:1a182373-6c05-4baa-9a41-c9b7b3d15be6",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "marital-status",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "marital-status",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:e9ac8ef5-7293-4561-89a2-a17691ba768a",
+        "identifier": "activity:1e26d47f-27af-40dc-ab56-6ca6a6850c90",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "occupation",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "occupation",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:56982d64-087b-4d0e-a958-65e19868316d",
+        "identifier": "activity:3a90621f-918e-4dc9-9394-669a56481ae5",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "relationship",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "relationship",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:87d6ae70-b175-48ed-ba99-a56172fcf38a",
+        "identifier": "activity:f469dc50-8a1a-4347-b8cf-b758dc3195e3",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "race",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "race",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:feacea58-592e-4e98-8c90-09b4555ba4bd",
+        "identifier": "activity:1979bea9-533e-4e15-8ff8-435c81b49356",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "sex",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "sex",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:4d5d01b3-29a0-42cc-b90b-aebd92a2fd12",
+        "identifier": "activity:624abde2-8481-4926-b788-fd1d958378cb",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "native-country",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "native-country",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:df4910e7-f9fc-4f09-939d-287942250146",
+        "identifier": "activity:8110825a-eb81-4f9e-a8d8-35640529db6f",
         "attributes": {
-            "function name": "Cleanup names from spaces",
-            "features name": "label",
-            "operation number": "0"
+            "function_name": "Cleanup names from spaces",
+            "features_name": "label",
+            "operation_number": "0"
         }
     }
 ]

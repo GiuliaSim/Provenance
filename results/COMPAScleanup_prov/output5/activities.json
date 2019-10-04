@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:b2a2864a-6618-46dc-a1f6-ad8065ccd172",
+        "identifier": "activity:58a1afc5-697b-4e29-9467-c880ca9c648e",
         "attributes": {
-            "function name": "Selection",
-            "features name": "c_jail_in, c_jail_out",
-            "operation number": "5"
+            "function_name": "Dimensionality reduction",
+            "features_name": "c_jail_out, c_jail_in",
+            "operation_number": "5"
         }
     }
 ]

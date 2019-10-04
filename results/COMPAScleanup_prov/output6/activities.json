@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:97fb9671-2cea-45b0-a0cb-27c7b75aca32",
+        "identifier": "activity:5c925ee6-488c-4f80-b51c-2e1236a34f51",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "c_charge_degree",
-            "operation number": "6"
+            "function_name": "Feature Transformation",
+            "features_name": "c_charge_degree",
+            "operation_number": "6"
         }
     }
 ]

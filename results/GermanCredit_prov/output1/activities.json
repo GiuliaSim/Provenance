@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:2261b01f-d75f-4a2b-a9d8-42a122937713",
+        "identifier": "activity:d7bf8952-885c-4035-9e0a-5539b266a3e0",
         "attributes": {
-            "function name": "Space Transformation",
-            "features name": "personal_status",
-            "operation number": "1"
+            "function_name": "Space Transformation",
+            "features_name": "personal_status",
+            "operation_number": "1"
         }
     }
 ]

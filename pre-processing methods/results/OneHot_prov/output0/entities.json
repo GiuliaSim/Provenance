@@ -1,192 +1,160 @@
 [
     {
-        "identifier": "entity:485669d6-bb2e-4e6f-93a0-a21fa7cc742e",
+        "identifier": "entity:8845b156-cd51-4992-9d52-7468641d6ccb",
         "attributes": {
-            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
-            "value": "6",
-            "feature_name": "duration"
-        }
-    },
-    {
-        "identifier": "entity:7a61c2d4-a060-4ccd-a4c3-715a4b9b239a",
-        "attributes": {
-            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
-            "value": "1",
-            "feature_name": "check_low"
-        }
-    },
-    {
-        "identifier": "entity:101d6be4-91a8-4878-9a89-61acbecb10a1",
-        "attributes": {
-            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
-            "value": "0",
-            "feature_name": "check_mid"
-        }
-    },
-    {
-        "identifier": "entity:166aa3bd-cb0b-48e6-8270-e863ea6dd178",
-        "attributes": {
-            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "record_id": "a98ee395-4e04-4568-b264-4ecbadc0ec7f",
             "value": "0",
             "feature_name": "check_none"
         }
     },
     {
-        "identifier": "entity:8358a498-f5c1-42c4-9cba-a8f222b617a8",
+        "identifier": "entity:1fc87c90-af9b-4e93-8772-cb9df3d9c66a",
         "attributes": {
-            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "record_id": "a98ee395-4e04-4568-b264-4ecbadc0ec7f",
+            "value": "1",
+            "feature_name": "check_low"
+        }
+    },
+    {
+        "identifier": "entity:d244f81f-57f4-469c-9902-b433e3816dab",
+        "attributes": {
+            "record_id": "a98ee395-4e04-4568-b264-4ecbadc0ec7f",
+            "value": "0",
+            "feature_name": "check_mid"
+        }
+    },
+    {
+        "identifier": "entity:0a4e2cd2-2aa1-49a4-803a-75945f20cc6f",
+        "attributes": {
+            "record_id": "a98ee395-4e04-4568-b264-4ecbadc0ec7f",
             "value": "1",
             "feature_name": "debt_critical"
         }
     },
     {
-        "identifier": "entity:17b56169-7907-48e4-96ef-dc933f767dd3",
+        "identifier": "entity:c26aa9ea-8a94-46dc-8e64-f516fc4d8786",
         "attributes": {
-            "record_id": "00f7c698-3c2b-4b61-b3e1-8a16e6acb271",
+            "record_id": "a98ee395-4e04-4568-b264-4ecbadc0ec7f",
             "value": "0",
             "feature_name": "debt_onSchedule"
         }
     },
     {
-        "identifier": "entity:820ed1da-506e-4aad-9f8d-6fd104d188c2",
+        "identifier": "entity:95275a1e-f9da-4ace-b8b3-59c3f9b18d1b",
         "attributes": {
-            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
-            "value": "48",
-            "feature_name": "duration"
-        }
-    },
-    {
-        "identifier": "entity:b586ab5d-09c7-4112-b7ff-f28b0acfae0d",
-        "attributes": {
-            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
-            "value": "0",
-            "feature_name": "check_low"
-        }
-    },
-    {
-        "identifier": "entity:aa499abc-507d-40d3-a8ba-c358a86d9b74",
-        "attributes": {
-            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
-            "value": "1",
-            "feature_name": "check_mid"
-        }
-    },
-    {
-        "identifier": "entity:ade9c70f-1992-4898-8ba5-6919e4282149",
-        "attributes": {
-            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "record_id": "1bfa3a64-e2b4-433f-8730-08f3ec957600",
             "value": "0",
             "feature_name": "check_none"
         }
     },
     {
-        "identifier": "entity:207f3464-fc50-4238-a690-25ff45280590",
+        "identifier": "entity:31bb79fa-924a-4e01-b8bd-5081e5eba05f",
         "attributes": {
-            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "record_id": "1bfa3a64-e2b4-433f-8730-08f3ec957600",
+            "value": "0",
+            "feature_name": "check_low"
+        }
+    },
+    {
+        "identifier": "entity:2a1c304f-b8e0-450a-9df4-949e0d9af8b0",
+        "attributes": {
+            "record_id": "1bfa3a64-e2b4-433f-8730-08f3ec957600",
+            "value": "1",
+            "feature_name": "check_mid"
+        }
+    },
+    {
+        "identifier": "entity:5240fd4c-c4b7-4e85-9f00-f32ae7e0bd25",
+        "attributes": {
+            "record_id": "1bfa3a64-e2b4-433f-8730-08f3ec957600",
             "value": "0",
             "feature_name": "debt_critical"
         }
     },
     {
-        "identifier": "entity:b3bc6e7c-0112-4b48-b6e6-108a67b34000",
+        "identifier": "entity:07b96c1a-909a-4d53-8d25-da658466e3a7",
         "attributes": {
-            "record_id": "65bcc779-e5e7-4fd9-86cb-3ccb37d7713e",
+            "record_id": "1bfa3a64-e2b4-433f-8730-08f3ec957600",
             "value": "1",
             "feature_name": "debt_onSchedule"
         }
     },
     {
-        "identifier": "entity:6c37b1f9-550f-4bbf-95f5-68a6dcabc516",
+        "identifier": "entity:92c01c66-9add-417a-a58c-dcd15ce291c1",
         "attributes": {
-            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
-            "value": "12",
-            "feature_name": "duration"
-        }
-    },
-    {
-        "identifier": "entity:58c426d3-a4af-4429-813b-aff508db51e8",
-        "attributes": {
-            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
-            "value": "0",
-            "feature_name": "check_low"
-        }
-    },
-    {
-        "identifier": "entity:41a54615-33a1-43a4-9849-362ec3d54d1d",
-        "attributes": {
-            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
-            "value": "0",
-            "feature_name": "check_mid"
-        }
-    },
-    {
-        "identifier": "entity:dc557637-98e2-48e8-976f-cf01064cbfe6",
-        "attributes": {
-            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "record_id": "8a939d8b-dd51-4595-aa28-f30b76f49449",
             "value": "1",
             "feature_name": "check_none"
         }
     },
     {
-        "identifier": "entity:48362262-5832-48c1-b666-687cb02e0efb",
+        "identifier": "entity:a8398d8b-4588-4dc0-923f-d2333de6776c",
         "attributes": {
-            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "record_id": "8a939d8b-dd51-4595-aa28-f30b76f49449",
+            "value": "0",
+            "feature_name": "check_low"
+        }
+    },
+    {
+        "identifier": "entity:6af75a97-752d-43f1-b65f-c8cddf214f80",
+        "attributes": {
+            "record_id": "8a939d8b-dd51-4595-aa28-f30b76f49449",
+            "value": "0",
+            "feature_name": "check_mid"
+        }
+    },
+    {
+        "identifier": "entity:e9633913-9b12-48f6-bbae-6c861b962912",
+        "attributes": {
+            "record_id": "8a939d8b-dd51-4595-aa28-f30b76f49449",
             "value": "1",
             "feature_name": "debt_critical"
         }
     },
     {
-        "identifier": "entity:7d44068a-a6b0-4201-97bc-32035070f61d",
+        "identifier": "entity:db7504ca-3419-44ee-8000-9ea732c41b0b",
         "attributes": {
-            "record_id": "37739e09-30c5-4c4d-b539-7becb0c890f5",
+            "record_id": "8a939d8b-dd51-4595-aa28-f30b76f49449",
             "value": "0",
             "feature_name": "debt_onSchedule"
         }
     },
     {
-        "identifier": "entity:916f561a-6f33-4e47-bc05-c0007a1e1f96",
+        "identifier": "entity:a7a59b7e-fd2d-4131-9c48-2e57a801d454",
         "attributes": {
-            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
-            "value": "42",
-            "feature_name": "duration"
-        }
-    },
-    {
-        "identifier": "entity:7fb367aa-577a-4ac6-ba54-f95b783b0443",
-        "attributes": {
-            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
-            "value": "1",
-            "feature_name": "check_low"
-        }
-    },
-    {
-        "identifier": "entity:b58d0c5d-c7ef-4586-b5a8-26cbcbed32c4",
-        "attributes": {
-            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
-            "value": "0",
-            "feature_name": "check_mid"
-        }
-    },
-    {
-        "identifier": "entity:dd45aa01-719e-484b-97c7-dead8ee14141",
-        "attributes": {
-            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "record_id": "6cde46d8-c26a-4167-96ae-a3cc9bece0f6",
             "value": "0",
             "feature_name": "check_none"
         }
     },
     {
-        "identifier": "entity:2bcb1036-1c6d-4d78-bcfb-c6d695765cb9",
+        "identifier": "entity:16613367-3cf3-44b1-92ad-4c9fd0c0c1c6",
         "attributes": {
-            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "record_id": "6cde46d8-c26a-4167-96ae-a3cc9bece0f6",
+            "value": "1",
+            "feature_name": "check_low"
+        }
+    },
+    {
+        "identifier": "entity:1a303287-519d-4969-8fa2-8f6b84eadc94",
+        "attributes": {
+            "record_id": "6cde46d8-c26a-4167-96ae-a3cc9bece0f6",
+            "value": "0",
+            "feature_name": "check_mid"
+        }
+    },
+    {
+        "identifier": "entity:3375d703-bdef-4f54-960c-cd958f72f635",
+        "attributes": {
+            "record_id": "6cde46d8-c26a-4167-96ae-a3cc9bece0f6",
             "value": "0",
             "feature_name": "debt_critical"
         }
     },
     {
-        "identifier": "entity:07317ed9-d7da-4d18-821c-3ac4ddc26cc0",
+        "identifier": "entity:2478d76f-3c46-421b-99ec-d19376c781e6",
         "attributes": {
-            "record_id": "846197fc-1441-42f0-a91c-39fa50c605f8",
+            "record_id": "6cde46d8-c26a-4167-96ae-a3cc9bece0f6",
             "value": "1",
             "feature_name": "debt_onSchedule"
         }

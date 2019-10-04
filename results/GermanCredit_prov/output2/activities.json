@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:f475ba52-056d-40e0-ab42-926cd3034770",
+        "identifier": "activity:d8f6d123-bf9d-46f9-98f1-c55b3eb0feb7",
         "attributes": {
-            "function name": "Selection",
-            "features name": "personal_status",
-            "operation number": "2"
+            "function_name": "Dimensionality reduction",
+            "features_name": "personal_status",
+            "operation_number": "2"
         }
     }
 ]

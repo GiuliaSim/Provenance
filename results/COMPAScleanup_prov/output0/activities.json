@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:55640dfc-9e0d-4f27-9220-776c1179a378",
+        "identifier": "activity:bf9439a9-c9c3-4010-ac08-f7d682b13266",
         "attributes": {
-            "function name": "Feature Selection",
-            "features name": "vr_charge_desc, first, dob, juv_other_count, event, c_days_from_compas, r_offense_date, c_arrest_date, age_cat, c_offense_date, vr_offense_date, r_days_from_arrest, score_text, violent_recid, priors_count, age, v_type_of_assessment, end, r_jail_in, c_case_number, decile_score, name, id, sex, vr_charge_degree, screening_date, v_decile_score, v_screening_date, is_violent_recid, start, juv_misd_count, in_custody, decile_score.1, v_score_text, r_case_number, c_charge_desc, out_custody, vr_case_number, r_jail_out, r_charge_degree, type_of_assessment, juv_fel_count, compas_screening_date, is_recid, r_charge_desc, priors_count.1, days_b_screening_arrest, last",
-            "operation number": "0"
+            "function_name": "Feature Selection",
+            "features_name": "is_recid, juv_misd_count, v_screening_date, r_jail_out, decile_score, dob, type_of_assessment, decile_score.1, priors_count.1, is_violent_recid, event, r_jail_in, vr_charge_desc, c_case_number, v_type_of_assessment, last, r_charge_degree, c_offense_date, screening_date, c_charge_desc, sex, juv_fel_count, v_decile_score, r_charge_desc, in_custody, c_days_from_compas, age_cat, vr_case_number, age, score_text, v_score_text, vr_offense_date, r_case_number, juv_other_count, priors_count, r_days_from_arrest, r_offense_date, first, end, out_custody, days_b_screening_arrest, compas_screening_date, c_arrest_date, name, vr_charge_degree, id, start, violent_recid",
+            "operation_number": "0"
         }
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:3261e0f2-c607-4184-984c-941f44648037",
+        "identifier": "activity:3070ab1c-008f-428d-b781-e5d13f0792ce",
         "attributes": {
-            "function name": "Space Transformation",
-            "features name": "c_jail_out, c_jail_in",
-            "operation number": "4"
+            "function_name": "Space Transformation",
+            "features_name": "c_jail_out, c_jail_in",
+            "operation_number": "4"
         }
     }
 ]

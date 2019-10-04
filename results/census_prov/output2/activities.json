@@ -1,18 +1,18 @@
 [
     {
-        "identifier": "activity:ed9d6d68-f808-41db-8b2d-dc9393013318",
+        "identifier": "activity:58014edd-53f7-4209-9eec-149c84bc9706",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "workclass",
-            "operation number": "2"
+            "function_name": "OneHot Encoding",
+            "features_name": "workclass",
+            "operation_number": "2"
         }
     },
     {
-        "identifier": "activity:c3080b60-3148-49bd-b94c-2abbc1709c4b",
+        "identifier": "activity:e8516e45-35a7-4081-94f6-180ba244a611",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "race",
-            "operation number": "2"
+            "function_name": "OneHot Encoding",
+            "features_name": "race",
+            "operation_number": "2"
         }
     }
 ]

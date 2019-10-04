@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:18533549-bb85-4e47-9736-449c9939aa9f",
+        "identifier": "activity:1e4896bd-dd0a-4ebc-a8bd-a45d5511496c",
         "attributes": {
-            "function name": "Selection",
-            "features name": "fnlwgt",
-            "operation number": "4"
+            "function_name": "Dimensionality reduction",
+            "features_name": "fnlwgt",
+            "operation_number": "4"
         }
     }
 ]

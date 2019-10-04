@@ -1,106 +1,106 @@
 [
     {
-        "identifier": "activity:d6fdffe1-6679-418a-b27d-295a8db5212a",
+        "identifier": "activity:fe38fa70-7a30-429c-b7eb-260957fa237b",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "checking",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "checking",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:bd80d923-e587-40a2-82cf-93c66f56ba9b",
+        "identifier": "activity:b20e4dfc-60e0-496e-8771-c9234f0957d3",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "credit_history",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "credit_history",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:bf450f24-fa0c-4064-b523-4994ca3d413e",
+        "identifier": "activity:52f256ad-8a09-41f0-8c6b-8918b187687e",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "purpose",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "purpose",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:80d4eba6-326e-4eda-ae02-ea8180920f8e",
+        "identifier": "activity:3b1af634-4693-48e7-a0c4-5811d104e6f7",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "savings",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "savings",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:fea01f2b-54b4-49bd-9e96-36c5f94664dd",
+        "identifier": "activity:7d9fbbe3-9418-4c75-954c-d58267428c43",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "employment",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "employment",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:92f4cdbd-215c-435c-a078-5eb25f3030ec",
+        "identifier": "activity:6c8da7a7-24f2-43f6-97f0-f2af0ba2e9dd",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "other_debtors",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "other_debtors",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:164a8528-bf7d-4941-ba29-13305b45db84",
+        "identifier": "activity:49ebb224-093f-4a24-ad96-1ca3c2a4a23b",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "property",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "property",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:f6bd3e93-a0ae-4933-a2d0-e784a61ab1a8",
+        "identifier": "activity:82ba5f39-b80a-4dfd-9f1d-eb93cf1f0c4f",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "other_inst",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "other_inst",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:d4424fe9-9b5c-4d9a-88d2-22f9a4322c0a",
+        "identifier": "activity:881fa407-fdf2-45e4-8d46-f415993fcf27",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "housing",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "housing",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:4ecd8a15-2856-4f5a-a45f-50dee44a1994",
+        "identifier": "activity:ade6659c-c4af-4ff3-9a30-5fdbdd7dcf5a",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "job",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "job",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:df6b24f0-c71d-4c78-9b7f-a2eb059c5db9",
+        "identifier": "activity:15598861-ef32-4096-bd0d-e79c937e03ac",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "phone",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "phone",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:6252fe25-87ee-4988-ab02-9aae27bae433",
+        "identifier": "activity:6c3d3c03-116a-452b-a640-5fab06c7ff0b",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "foreigner",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "foreigner",
+            "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:e7352897-1172-4143-bb4a-3dacaf12adcf",
+        "identifier": "activity:c769f82c-fc13-42ba-9616-dc8c0b2c1254",
         "attributes": {
-            "function name": "Feature Transformation",
-            "features name": "label",
-            "operation number": "0"
+            "function_name": "Feature Transformation",
+            "features_name": "label",
+            "operation_number": "0"
         }
     }
 ]

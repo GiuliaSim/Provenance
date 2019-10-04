@@ -1,90 +1,90 @@
 [
     {
-        "identifier": "activity:79e281ea-01e5-42d5-b77a-a31ff4d350a5",
+        "identifier": "activity:d126572f-e1b5-4d95-97c6-e06f4a14758f",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "checking",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "checking",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:1b084224-7a76-41cc-9f34-745f30d17586",
+        "identifier": "activity:ac049139-7039-4c68-be6f-e417c2d525ba",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "credit_history",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "credit_history",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:1dab3286-4ada-4852-b4c5-4c6728923571",
+        "identifier": "activity:42b15eb4-614a-44e6-ae8a-37bb7fea85c9",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "purpose",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "purpose",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:c66ad100-5ed7-40b9-b617-34041a80475e",
+        "identifier": "activity:21e9abec-acb7-4644-ac27-a1de51bbd587",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "savings",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "savings",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:d492a781-107f-4c18-8562-73490fe932d0",
+        "identifier": "activity:be010aa7-4a0e-476a-b932-749ca541ad87",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "employment",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "employment",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:0e9cc3a9-b793-4f97-8944-4efd92a333b0",
+        "identifier": "activity:7f985f82-abb5-4426-a44e-fd18f565dad6",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "other_debtors",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "other_debtors",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:ca0080fd-48da-4f1b-9858-1001409bce92",
+        "identifier": "activity:d863092e-fd0a-4bce-aeec-aa512aea216d",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "property",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "property",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:779a4a11-badb-4c97-befc-67febd9aead3",
+        "identifier": "activity:54029517-8074-475f-86d4-4a61edb85dc2",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "other_inst",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "other_inst",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:f7730547-31b6-423d-b1d6-f110b9561f40",
+        "identifier": "activity:4351f99c-62d4-4ab4-96a9-b27a90955913",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "housing",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "housing",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:ba26604c-e7eb-4b4b-bb05-17454320d81d",
+        "identifier": "activity:838850b8-e646-453b-b141-3a5288d7a335",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "job",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "job",
+            "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:adec2f1e-3bd0-4516-ac9b-5d20d0f6691a",
+        "identifier": "activity:5c28669a-77b0-4fa0-a208-6122c3363c66",
         "attributes": {
-            "function name": "OneHot Encoding",
-            "features name": "status",
-            "operation number": "3"
+            "function_name": "OneHot Encoding",
+            "features_name": "status",
+            "operation_number": "3"
         }
     }
 ]

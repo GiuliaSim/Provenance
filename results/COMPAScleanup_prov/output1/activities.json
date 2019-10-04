@@ -1,10 +1,10 @@
 [
     {
-        "identifier": "activity:28d34758-d49c-4079-b81d-b80e5983f4a4",
+        "identifier": "activity:6b5a0e5a-bb5a-4afd-9d86-9e00264d2c2a",
         "attributes": {
-            "function name": "Selection",
-            "features name": "",
-            "operation number": "1"
+            "function_name": "Dimensionality reduction",
+            "features_name": "",
+            "operation_number": "1"
         }
     }
 ]
