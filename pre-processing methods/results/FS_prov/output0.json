@@ -1,0 +1,24 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "activity": {
+    "activity:51a85bb9-d724-4004-99ed-7e8250d9b74d": {
+      "function_name": "Feature Selection",
+      "features_name": "c_charge_degree",
+      "operation_number": "0"
+    }
+  },
+  "wasInvalidatedBy": {
+    "_:id1": {
+      "prov:entity": "entity:9d6feed7-5de4-4c3a-b31b-dca7f6e96333",
+      "prov:activity": "activity:51a85bb9-d724-4004-99ed-7e8250d9b74d"
+    },
+    "_:id2": {
+      "prov:entity": "entity:21c4dfc3-c3dc-4201-b0ef-1a155330e8f4",
+      "prov:activity": "activity:51a85bb9-d724-4004-99ed-7e8250d9b74d"
+    }
+  }
+}

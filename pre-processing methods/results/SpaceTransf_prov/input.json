@@ -1,0 +1,54 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "entity": {
+    "entity:1b54fcc8-1cfa-44fb-a76e-770c48d8024e": {
+      "record_id": "d8b0a940-f084-4a5a-b3ee-211c6a80b9d8",
+      "value": "69",
+      "feature_name": "age"
+    },
+    "entity:404b0a6c-cae0-45aa-9721-399e65f016a0": {
+      "record_id": "d8b0a940-f084-4a5a-b3ee-211c6a80b9d8",
+      "value": "2013-08-13 06:03:42",
+      "feature_name": "c_jail_in"
+    },
+    "entity:1da0f918-e83e-4e46-b65f-df059d21ff38": {
+      "record_id": "d8b0a940-f084-4a5a-b3ee-211c6a80b9d8",
+      "value": "2013-08-14 05:41:20",
+      "feature_name": "c_jail_out"
+    },
+    "entity:69061d62-28fa-4202-b701-b6d562bc55cc": {
+      "record_id": "e508a61f-ca84-467d-b069-10900dd136bb",
+      "value": "34",
+      "feature_name": "age"
+    },
+    "entity:9f5c8d63-c9a6-4d12-a34a-93a19321d184": {
+      "record_id": "e508a61f-ca84-467d-b069-10900dd136bb",
+      "value": "2013-01-26 03:45:27",
+      "feature_name": "c_jail_in"
+    },
+    "entity:3e48eea1-1b75-4524-a0b2-37320ab6571f": {
+      "record_id": "e508a61f-ca84-467d-b069-10900dd136bb",
+      "value": "2013-02-05 05:36:53",
+      "feature_name": "c_jail_out"
+    },
+    "entity:0ae42f17-b1de-4ab2-b34e-bcc0c11412d4": {
+      "record_id": "06138226-ef2d-4769-99fa-523142c1b940",
+      "value": "24",
+      "feature_name": "age"
+    },
+    "entity:ffa769e1-8a45-4c0d-a33f-21b86e98afe9": {
+      "record_id": "06138226-ef2d-4769-99fa-523142c1b940",
+      "value": "2013-04-13 04:58:34",
+      "feature_name": "c_jail_in"
+    },
+    "entity:a2388f4d-a43d-465f-a5c7-42043f8ff6df": {
+      "record_id": "06138226-ef2d-4769-99fa-523142c1b940",
+      "value": "2013-04-14 07:02:04",
+      "feature_name": "c_jail_out"
+    }
+  }
+}

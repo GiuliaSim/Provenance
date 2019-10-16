@@ -1,0 +1,28 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "activity": {
+    "activity:5d1290d6-0934-48f9-9c03-0bcda6e4f83b": {
+      "function_name": "Dimensionality reduction",
+      "features_name": "",
+      "operation_number": "0"
+    }
+  },
+  "wasInvalidatedBy": {
+    "_:id1": {
+      "prov:entity": "entity:9d7e5e83-a640-42ab-9142-52ec43108350",
+      "prov:activity": "activity:5d1290d6-0934-48f9-9c03-0bcda6e4f83b"
+    },
+    "_:id2": {
+      "prov:entity": "entity:3479a43b-e8f6-40c9-bed4-ad18af5f5ede",
+      "prov:activity": "activity:5d1290d6-0934-48f9-9c03-0bcda6e4f83b"
+    },
+    "_:id3": {
+      "prov:entity": "entity:7732764a-2191-47b4-883e-7485a6b0d17c",
+      "prov:activity": "activity:5d1290d6-0934-48f9-9c03-0bcda6e4f83b"
+    }
+  }
+}

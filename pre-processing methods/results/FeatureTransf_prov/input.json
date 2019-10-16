@@ -1,0 +1,69 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "entity": {
+    "entity:d24509ae-80a7-4483-b5c7-a501dcf37adb": {
+      "record_id": "bcd6e54a-013d-4f5b-b166-3afc0666a94f",
+      "value": " State-gov",
+      "feature_name": "workclass"
+    },
+    "entity:8ad2593c-b859-411f-92c1-c81d0b7207ff": {
+      "record_id": "bcd6e54a-013d-4f5b-b166-3afc0666a94f",
+      "value": " White",
+      "feature_name": "race"
+    },
+    "entity:8d9a8162-6dff-48ec-af9b-28601bc92238": {
+      "record_id": "bcd6e54a-013d-4f5b-b166-3afc0666a94f",
+      "value": " Male",
+      "feature_name": "sex"
+    },
+    "entity:2e1c21c1-00e2-4ff3-a506-0b1611671b56": {
+      "record_id": "bcd6e54a-013d-4f5b-b166-3afc0666a94f",
+      "value": " <=50K",
+      "feature_name": "label"
+    },
+    "entity:f8b800cf-aed0-4eda-8165-b7b4fba76c17": {
+      "record_id": "1d4ec89e-84de-4984-8bac-84bb0e300d6b",
+      "value": " Self-emp-not-inc",
+      "feature_name": "workclass"
+    },
+    "entity:dd3e5fea-8852-4238-bec1-1a70478ad3f6": {
+      "record_id": "1d4ec89e-84de-4984-8bac-84bb0e300d6b",
+      "value": " White",
+      "feature_name": "race"
+    },
+    "entity:b32dcfea-0248-4269-94a1-4616909f87ce": {
+      "record_id": "1d4ec89e-84de-4984-8bac-84bb0e300d6b",
+      "value": " Male",
+      "feature_name": "sex"
+    },
+    "entity:e1b6c29d-89e0-4091-ad6d-b15f21d20599": {
+      "record_id": "1d4ec89e-84de-4984-8bac-84bb0e300d6b",
+      "value": " <=50K",
+      "feature_name": "label"
+    },
+    "entity:36758032-5055-4dcd-a235-8552c598e3a3": {
+      "record_id": "b209289e-bd35-4909-bd9a-da7e2a98f3ee",
+      "value": " Private",
+      "feature_name": "workclass"
+    },
+    "entity:ffc259d1-237a-4dcf-97fb-6edd9937fe93": {
+      "record_id": "b209289e-bd35-4909-bd9a-da7e2a98f3ee",
+      "value": " White",
+      "feature_name": "race"
+    },
+    "entity:7542affa-489d-47fa-86be-f27495ee4a5d": {
+      "record_id": "b209289e-bd35-4909-bd9a-da7e2a98f3ee",
+      "value": " Male",
+      "feature_name": "sex"
+    },
+    "entity:daa8e84a-f312-4e81-96fc-5a62041c9ac8": {
+      "record_id": "b209289e-bd35-4909-bd9a-da7e2a98f3ee",
+      "value": " <=50K",
+      "feature_name": "label"
+    }
+  }
+}

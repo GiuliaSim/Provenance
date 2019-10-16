@@ -1,0 +1,54 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "entity": {
+    "entity:ddba7d2a-0dcf-4ab4-b817-4f172907cd93": {
+      "record_id": "50248af4-cc24-4ed8-aa67-82d282dc950b",
+      "value": "39",
+      "feature_name": "age"
+    },
+    "entity:fb9bd75e-42b5-4f9f-a69c-6deb6e514f12": {
+      "record_id": "50248af4-cc24-4ed8-aa67-82d282dc950b",
+      "value": " State-gov",
+      "feature_name": "workclass"
+    },
+    "entity:262896de-1ba3-4732-b5aa-7ed7b3b764ac": {
+      "record_id": "50248af4-cc24-4ed8-aa67-82d282dc950b",
+      "value": " Bachelors",
+      "feature_name": "education"
+    },
+    "entity:e92f42cb-73cf-495a-8665-5e8dfe8a9bfc": {
+      "record_id": "0998ef0d-2b9c-409f-8b7c-92aafce01abb",
+      "value": "50",
+      "feature_name": "age"
+    },
+    "entity:a60c17a6-a8ca-4352-b936-ddbced9e3baa": {
+      "record_id": "0998ef0d-2b9c-409f-8b7c-92aafce01abb",
+      "value": " Self-emp-not-inc",
+      "feature_name": "workclass"
+    },
+    "entity:0c5b58ea-d6a0-4237-a728-69510ed2b6fa": {
+      "record_id": "0998ef0d-2b9c-409f-8b7c-92aafce01abb",
+      "value": " Bachelors",
+      "feature_name": "education"
+    },
+    "entity:fa32fe2c-3c4d-407d-b3d5-7556c504504d": {
+      "record_id": "8502f49d-9fd9-4cc2-a8f5-6b2d20d6f67c",
+      "value": "38",
+      "feature_name": "age"
+    },
+    "entity:7de0d88a-78b5-4893-8587-0da95de2f5ff": {
+      "record_id": "8502f49d-9fd9-4cc2-a8f5-6b2d20d6f67c",
+      "value": " Private",
+      "feature_name": "workclass"
+    },
+    "entity:ea116d98-38fe-429b-8f1e-b45f2a2c5c74": {
+      "record_id": "8502f49d-9fd9-4cc2-a8f5-6b2d20d6f67c",
+      "value": " HS-grad",
+      "feature_name": "education"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "entity": {
+    "entity:25faaa72-1e6e-40ef-acfb-4f00937ff03c": {
+      "record_id": "14469e8b-2b99-42fd-bd57-1d6ceda997e9",
+      "value": "check_low",
+      "feature_name": "checking"
+    },
+    "entity:3b567938-0a2c-4bea-b072-f3adf449a6a8": {
+      "record_id": "14469e8b-2b99-42fd-bd57-1d6ceda997e9",
+      "value": "6",
+      "feature_name": "duration"
+    },
+    "entity:d47ff815-52c6-4de8-93ac-673fb56ad8c2": {
+      "record_id": "14469e8b-2b99-42fd-bd57-1d6ceda997e9",
+      "value": "debt_critical",
+      "feature_name": "credit_history"
+    },
+    "entity:53505a6f-80a0-4a5f-af6a-2b5e6db22a39": {
+      "record_id": "58305d23-6f17-411a-b15b-a656f280b3d0",
+      "value": "check_mid",
+      "feature_name": "checking"
+    },
+    "entity:5df2bf14-09ec-4013-8ccc-45423758393c": {
+      "record_id": "58305d23-6f17-411a-b15b-a656f280b3d0",
+      "value": "48",
+      "feature_name": "duration"
+    },
+    "entity:e23195b3-2388-46b5-9748-c2fc0b722f80": {
+      "record_id": "58305d23-6f17-411a-b15b-a656f280b3d0",
+      "value": "debt_onSchedule",
+      "feature_name": "credit_history"
+    },
+    "entity:92dd32e6-ded4-4f0f-8426-70e5e9027e13": {
+      "record_id": "b50afb4b-c330-4a9c-a33e-62d9f7a54be0",
+      "value": "check_none",
+      "feature_name": "checking"
+    },
+    "entity:9d0df930-838e-4eb7-b6f1-9e1df864562b": {
+      "record_id": "b50afb4b-c330-4a9c-a33e-62d9f7a54be0",
+      "value": "12",
+      "feature_name": "duration"
+    },
+    "entity:d8f8ae79-e54f-42c0-b72a-16e73116be22": {
+      "record_id": "b50afb4b-c330-4a9c-a33e-62d9f7a54be0",
+      "value": "debt_critical",
+      "feature_name": "credit_history"
+    },
+    "entity:08039766-253d-44a3-aec7-5eadd3417e92": {
+      "record_id": "e13dcf46-98ff-4664-91ae-2cc7c4bcdf81",
+      "value": "check_low",
+      "feature_name": "checking"
+    },
+    "entity:941388af-0708-4ded-b193-a82edf9a5ff2": {
+      "record_id": "e13dcf46-98ff-4664-91ae-2cc7c4bcdf81",
+      "value": "42",
+      "feature_name": "duration"
+    },
+    "entity:63783511-ff3f-4e24-8be3-877c42addc64": {
+      "record_id": "e13dcf46-98ff-4664-91ae-2cc7c4bcdf81",
+      "value": "debt_onSchedule",
+      "feature_name": "credit_history"
+    }
+  }
+}

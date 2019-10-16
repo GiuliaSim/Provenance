@@ -1,0 +1,55 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "activity": {
+    "activity:587d9303-2c50-49e8-864a-2066a9343a5a": {
+      "function_name": "Imputation",
+      "operation_number": "1"
+    }
+  },
+  "entity": {
+    "entity:6d21fb09-b069-47c6-8995-25ed325a4c34": {
+      "record_id": "50248af4-cc24-4ed8-aa67-82d282dc950b",
+      "value": "nan",
+      "feature_name": "education"
+    },
+    "entity:83c0e02c-9e68-4c73-b01c-c89fd0fe397c": {
+      "record_id": "0998ef0d-2b9c-409f-8b7c-92aafce01abb",
+      "value": "nan",
+      "feature_name": "education"
+    }
+  },
+  "wasGeneratedBy": {
+    "_:id1": {
+      "prov:entity": "entity:6d21fb09-b069-47c6-8995-25ed325a4c34",
+      "prov:activity": "activity:587d9303-2c50-49e8-864a-2066a9343a5a"
+    },
+    "_:id4": {
+      "prov:entity": "entity:83c0e02c-9e68-4c73-b01c-c89fd0fe397c",
+      "prov:activity": "activity:587d9303-2c50-49e8-864a-2066a9343a5a"
+    }
+  },
+  "used": {
+    "_:id2": {
+      "prov:activity": "activity:587d9303-2c50-49e8-864a-2066a9343a5a",
+      "prov:entity": "entity:8534f398-65ce-4c86-9e66-38e740550a00"
+    },
+    "_:id5": {
+      "prov:activity": "activity:587d9303-2c50-49e8-864a-2066a9343a5a",
+      "prov:entity": "entity:17bc7c92-b7b2-4638-93ea-6c70684d53b0"
+    }
+  },
+  "wasDerivedFrom": {
+    "_:id3": {
+      "prov:generatedEntity": "entity:6d21fb09-b069-47c6-8995-25ed325a4c34",
+      "prov:usedEntity": "entity:8534f398-65ce-4c86-9e66-38e740550a00"
+    },
+    "_:id6": {
+      "prov:generatedEntity": "entity:83c0e02c-9e68-4c73-b01c-c89fd0fe397c",
+      "prov:usedEntity": "entity:17bc7c92-b7b2-4638-93ea-6c70684d53b0"
+    }
+  }
+}

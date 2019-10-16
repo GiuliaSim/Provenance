@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "activity:f5bdb5cd-950f-4998-97eb-faa41b5fc68a",
+        "identifier": "activity:f73c3917-74ed-4aea-b41d-096304d02e34",
         "attributes": {
             "function_name": "OneHot Encoding",
             "features_name": "checking",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "identifier": "activity:6facf918-d946-47fd-a7cd-0314727fd71c",
+        "identifier": "activity:dd201dd0-4616-4234-bdf5-c258a6056f68",
         "attributes": {
             "function_name": "OneHot Encoding",
             "features_name": "credit_history",

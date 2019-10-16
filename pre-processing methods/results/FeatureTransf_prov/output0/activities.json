@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "activity:5116de4b-077c-40e9-9194-47c8f7b9379d",
+        "identifier": "activity:32b61480-27f3-44a5-aad7-1838ac2d7e89",
         "attributes": {
             "function_name": "Feature Transformation",
             "features_name": "workclass",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "identifier": "activity:cb9797d4-6a6d-4be9-af61-6a9a5c7cf9f3",
+        "identifier": "activity:aeecb776-6676-4c49-924a-7a3d786a958b",
         "attributes": {
             "function_name": "Feature Transformation",
             "features_name": "sex",
@@ -16,7 +16,7 @@
         }
     },
     {
-        "identifier": "activity:2503b8b5-1237-4158-ab9d-f84972946aed",
+        "identifier": "activity:7de326ac-d9eb-4a24-adcc-aca7de945a42",
         "attributes": {
             "function_name": "Feature Transformation",
             "features_name": "label",

@@ -1,0 +1,73 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "activity": {
+    "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9": {
+      "function_name": "Binarizer",
+      "features_name": "race",
+      "operation_number": "0"
+    }
+  },
+  "entity": {
+    "entity:fa31a8e5-bd32-4e82-8c5e-3499664085c0": {
+      "record_id": "93c7042b-1dce-4cd5-a931-ffc87a486ced",
+      "value": "0",
+      "feature_name": "race"
+    },
+    "entity:5aae3ffe-2ac9-41a3-9fcf-2703283ceb3f": {
+      "record_id": "b337c00d-2473-4d92-9893-f45a1557b398",
+      "value": "0",
+      "feature_name": "race"
+    },
+    "entity:6e83bf76-83fd-43d4-86ad-102d28f686a0": {
+      "record_id": "852d6adc-645b-46c1-9e25-20cb6d0b6d0a",
+      "value": "0",
+      "feature_name": "race"
+    }
+  },
+  "wasGeneratedBy": {
+    "_:id1": {
+      "prov:entity": "entity:fa31a8e5-bd32-4e82-8c5e-3499664085c0",
+      "prov:activity": "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9"
+    },
+    "_:id4": {
+      "prov:entity": "entity:5aae3ffe-2ac9-41a3-9fcf-2703283ceb3f",
+      "prov:activity": "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9"
+    },
+    "_:id7": {
+      "prov:entity": "entity:6e83bf76-83fd-43d4-86ad-102d28f686a0",
+      "prov:activity": "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9"
+    }
+  },
+  "used": {
+    "_:id2": {
+      "prov:activity": "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9",
+      "prov:entity": "entity:20b7333e-3015-420a-9cc6-9db18150c1fc"
+    },
+    "_:id5": {
+      "prov:activity": "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9",
+      "prov:entity": "entity:21063186-4168-4c58-9f97-2fdec349f927"
+    },
+    "_:id8": {
+      "prov:activity": "activity:17246d0a-5a69-4b49-8425-1f78f47bc8b9",
+      "prov:entity": "entity:bfbe66ef-0253-403e-9d04-0b7c085e52fc"
+    }
+  },
+  "wasDerivedFrom": {
+    "_:id3": {
+      "prov:generatedEntity": "entity:fa31a8e5-bd32-4e82-8c5e-3499664085c0",
+      "prov:usedEntity": "entity:20b7333e-3015-420a-9cc6-9db18150c1fc"
+    },
+    "_:id6": {
+      "prov:generatedEntity": "entity:5aae3ffe-2ac9-41a3-9fcf-2703283ceb3f",
+      "prov:usedEntity": "entity:21063186-4168-4c58-9f97-2fdec349f927"
+    },
+    "_:id9": {
+      "prov:generatedEntity": "entity:6e83bf76-83fd-43d4-86ad-102d28f686a0",
+      "prov:usedEntity": "entity:bfbe66ef-0253-403e-9d04-0b7c085e52fc"
+    }
+  }
+}

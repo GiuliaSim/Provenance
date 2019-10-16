@@ -1,0 +1,55 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "activity": {
+    "activity:cefb3a2a-d325-4efb-afeb-b5eed6acdbc6": {
+      "function_name": "Value Transformation",
+      "operation_number": "0"
+    }
+  },
+  "entity": {
+    "entity:8534f398-65ce-4c86-9e66-38e740550a00": {
+      "record_id": "50248af4-cc24-4ed8-aa67-82d282dc950b",
+      "value": "nan",
+      "feature_name": "education"
+    },
+    "entity:17bc7c92-b7b2-4638-93ea-6c70684d53b0": {
+      "record_id": "0998ef0d-2b9c-409f-8b7c-92aafce01abb",
+      "value": "nan",
+      "feature_name": "education"
+    }
+  },
+  "wasGeneratedBy": {
+    "_:id1": {
+      "prov:entity": "entity:8534f398-65ce-4c86-9e66-38e740550a00",
+      "prov:activity": "activity:cefb3a2a-d325-4efb-afeb-b5eed6acdbc6"
+    },
+    "_:id4": {
+      "prov:entity": "entity:17bc7c92-b7b2-4638-93ea-6c70684d53b0",
+      "prov:activity": "activity:cefb3a2a-d325-4efb-afeb-b5eed6acdbc6"
+    }
+  },
+  "used": {
+    "_:id2": {
+      "prov:activity": "activity:cefb3a2a-d325-4efb-afeb-b5eed6acdbc6",
+      "prov:entity": "entity:262896de-1ba3-4732-b5aa-7ed7b3b764ac"
+    },
+    "_:id5": {
+      "prov:activity": "activity:cefb3a2a-d325-4efb-afeb-b5eed6acdbc6",
+      "prov:entity": "entity:0c5b58ea-d6a0-4237-a728-69510ed2b6fa"
+    }
+  },
+  "wasDerivedFrom": {
+    "_:id3": {
+      "prov:generatedEntity": "entity:8534f398-65ce-4c86-9e66-38e740550a00",
+      "prov:usedEntity": "entity:262896de-1ba3-4732-b5aa-7ed7b3b764ac"
+    },
+    "_:id6": {
+      "prov:generatedEntity": "entity:17bc7c92-b7b2-4638-93ea-6c70684d53b0",
+      "prov:usedEntity": "entity:0c5b58ea-d6a0-4237-a728-69510ed2b6fa"
+    }
+  }
+}

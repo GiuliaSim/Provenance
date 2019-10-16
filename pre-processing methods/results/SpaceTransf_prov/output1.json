@@ -1,0 +1,40 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "activity": {
+    "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2": {
+      "function_name": "Dimensionality reduction",
+      "features_name": "c_jail_in, c_jail_out",
+      "operation_number": "1"
+    }
+  },
+  "wasInvalidatedBy": {
+    "_:id1": {
+      "prov:entity": "entity:404b0a6c-cae0-45aa-9721-399e65f016a0",
+      "prov:activity": "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2"
+    },
+    "_:id2": {
+      "prov:entity": "entity:9f5c8d63-c9a6-4d12-a34a-93a19321d184",
+      "prov:activity": "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2"
+    },
+    "_:id3": {
+      "prov:entity": "entity:ffa769e1-8a45-4c0d-a33f-21b86e98afe9",
+      "prov:activity": "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2"
+    },
+    "_:id4": {
+      "prov:entity": "entity:1da0f918-e83e-4e46-b65f-df059d21ff38",
+      "prov:activity": "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2"
+    },
+    "_:id5": {
+      "prov:entity": "entity:3e48eea1-1b75-4524-a0b2-37320ab6571f",
+      "prov:activity": "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2"
+    },
+    "_:id6": {
+      "prov:entity": "entity:a2388f4d-a43d-465f-a5c7-42043f8ff6df",
+      "prov:activity": "activity:04761d81-b261-4a2b-be7d-a50729e1d9c2"
+    }
+  }
+}

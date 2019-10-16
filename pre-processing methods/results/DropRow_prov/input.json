@@ -1,0 +1,54 @@
+{
+  "prefix": {
+    "activity": "activity",
+    "entity": "entity",
+    "default": "default"
+  },
+  "entity": {
+    "entity:d9fa3505-8890-4ecb-a24c-17264e6e1641": {
+      "record_id": "789a6194-9295-41d2-ac47-201345e1f0d0",
+      "value": "F",
+      "feature_name": "c_charge_degree"
+    },
+    "entity:3babf082-982a-44c8-84e2-00690946e515": {
+      "record_id": "789a6194-9295-41d2-ac47-201345e1f0d0",
+      "value": "Other",
+      "feature_name": "race"
+    },
+    "entity:a2d74711-534d-454e-8f24-0eb52dc6c5c8": {
+      "record_id": "789a6194-9295-41d2-ac47-201345e1f0d0",
+      "value": "Male",
+      "feature_name": "sex"
+    },
+    "entity:9d7e5e83-a640-42ab-9142-52ec43108350": {
+      "record_id": "bf860691-96f5-4414-8556-68fbaf7e52c2",
+      "value": "F",
+      "feature_name": "c_charge_degree"
+    },
+    "entity:3479a43b-e8f6-40c9-bed4-ad18af5f5ede": {
+      "record_id": "bf860691-96f5-4414-8556-68fbaf7e52c2",
+      "value": "African-American",
+      "feature_name": "race"
+    },
+    "entity:7732764a-2191-47b4-883e-7485a6b0d17c": {
+      "record_id": "bf860691-96f5-4414-8556-68fbaf7e52c2",
+      "value": "Male",
+      "feature_name": "sex"
+    },
+    "entity:38b13c80-0710-4fbb-b0b7-d5721fe79311": {
+      "record_id": "714d6d38-a1e5-4d83-90d9-1fa28fc162c5",
+      "value": "F",
+      "feature_name": "c_charge_degree"
+    },
+    "entity:951d2706-c93f-4e70-a076-14961e1aab1e": {
+      "record_id": "714d6d38-a1e5-4d83-90d9-1fa28fc162c5",
+      "value": "African-American",
+      "feature_name": "race"
+    },
+    "entity:ae162180-bd43-43e2-94ff-d7dc23365a13": {
+      "record_id": "714d6d38-a1e5-4d83-90d9-1fa28fc162c5",
+      "value": "Male",
+      "feature_name": "sex"
+    }
+  }
+}
