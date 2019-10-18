@@ -6,3 +6,15 @@ get_prov_onehot_encode function took 9302.623 ms
 [16/10-21:09:30]get_prov_space_transformation function took 341.937 ms
 [16/10-21:09:30]get_prov_dim_reduction function took 75.810 ms
 [16/10-21:09:37]get_prov_onehot_encode function took 5933.924 ms
+[17/10-13:32:27]get_prov_feature_transformation function took 1572.589 ms
+[17/10-13:32:28]get_prov_space_transformation function took 442.173 ms
+[17/10-13:32:28]get_prov_dim_reduction function took 52.109 ms
+[17/10-13:32:35]get_prov_onehot_encode function took 6477.382 ms
+[17/10-14:24:09]get_prov_feature_transformation function took 1676.622 ms
+[17/10-14:24:09]get_prov_space_transformation function took 438.486 ms
+[17/10-14:24:09]get_prov_dim_reduction function took 58.467 ms
+[17/10-14:24:17]get_prov_onehot_encode function took 7527.789 ms
+[17/10-15:56:36]get_prov_feature_transformation function took 4916.511 ms
+[17/10-15:56:37]get_prov_space_transformation function took 835.649 ms
+[17/10-15:56:37]get_prov_dim_reduction function took 116.292 ms
+[17/10-15:56:53]get_prov_onehot_encode function took 14637.772 ms

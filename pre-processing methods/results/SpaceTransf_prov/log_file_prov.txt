@@ -1,2 +1,0 @@
-get_prov_space_transformation function took 3.260 ms
-get_prov_dim_reduction function took 6.602 ms

@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "activity:b97b5e31-9a94-4bf7-81e5-98c12dcfcc6d",
+        "identifier": "activity:51f9a55d-576b-44b7-b20a-c28c0612ab36",
         "attributes": {
             "function_name": "Assign sex and label binary values 0 and 1",
             "features_name": "sex",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "identifier": "activity:e39c6a68-c3f0-438e-ab0c-eca80adcdfd7",
+        "identifier": "activity:7bd7d8dd-ffe3-47f6-a0ca-b31d9f0e8ce2",
         "attributes": {
             "function_name": "Assign sex and label binary values 0 and 1",
             "features_name": "label",

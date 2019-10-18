@@ -5,50 +5,86 @@
     "default": "default"
   },
   "entity": {
-    "entity:66439d99-a7a7-4cb8-8ceb-ed37be176294": {
-      "record_id": "6d3562fe-99bf-4b7d-8cfd-12547956b9ee",
+    "entity:e08e09ed-8f0c-4cf5-bc02-ad478a1eb664": {
+      "record_id": "a545e018-dbac-4f80-8b9e-758604450e5e",
       "value": "69",
-      "feature_name": "age"
+      "feature_name": "age",
+      "index": {
+        "$": 0,
+        "type": "xsd:int"
+      }
     },
-    "entity:7ec5a819-946a-4cc2-ba89-769001c6c571": {
-      "record_id": "6d3562fe-99bf-4b7d-8cfd-12547956b9ee",
+    "entity:5c396561-f768-4eed-b027-dc8a0f499faf": {
+      "record_id": "a545e018-dbac-4f80-8b9e-758604450e5e",
       "value": "F",
-      "feature_name": "c_charge_degree"
+      "feature_name": "c_charge_degree",
+      "index": {
+        "$": 0,
+        "type": "xsd:int"
+      }
     },
-    "entity:218de469-476b-4fa8-9384-1e405992cdd0": {
-      "record_id": "6d3562fe-99bf-4b7d-8cfd-12547956b9ee",
+    "entity:7157ddab-96db-481f-adf6-d7c460be6973": {
+      "record_id": "a545e018-dbac-4f80-8b9e-758604450e5e",
       "value": "Other",
-      "feature_name": "race"
+      "feature_name": "race",
+      "index": {
+        "$": 0,
+        "type": "xsd:int"
+      }
     },
-    "entity:b5e7d0e8-efae-488f-be8b-9fa6caad0ede": {
-      "record_id": "616af6be-98e6-4c21-b7b5-f85d3b9a670d",
+    "entity:5f47ebe9-5a76-40f2-88fa-90c45f233acc": {
+      "record_id": "34a9db51-b85a-40f4-9aee-2a01bb855b41",
       "value": "34",
-      "feature_name": "age"
+      "feature_name": "age",
+      "index": {
+        "$": 1,
+        "type": "xsd:int"
+      }
     },
-    "entity:207b0761-275b-4837-a45b-12e1260e55ab": {
-      "record_id": "616af6be-98e6-4c21-b7b5-f85d3b9a670d",
+    "entity:038ade67-533d-4425-87b1-f597c1a2989c": {
+      "record_id": "34a9db51-b85a-40f4-9aee-2a01bb855b41",
       "value": "F",
-      "feature_name": "c_charge_degree"
+      "feature_name": "c_charge_degree",
+      "index": {
+        "$": 1,
+        "type": "xsd:int"
+      }
     },
-    "entity:871db42a-102e-4bd6-8662-1d73c2504012": {
-      "record_id": "616af6be-98e6-4c21-b7b5-f85d3b9a670d",
+    "entity:a9782c7f-e194-4b38-ae7a-37fbe49f3580": {
+      "record_id": "34a9db51-b85a-40f4-9aee-2a01bb855b41",
       "value": "African-American",
-      "feature_name": "race"
+      "feature_name": "race",
+      "index": {
+        "$": 1,
+        "type": "xsd:int"
+      }
     },
-    "entity:dcf09250-e831-459e-88f9-563eb99a05e5": {
-      "record_id": "e71b7470-70f5-4dc1-bddb-842b2d6a80d3",
+    "entity:2d4d67f0-7c13-47c6-82b0-51f53c9bccae": {
+      "record_id": "baec7952-0d50-4373-ae98-e1563a1e8592",
       "value": "24",
-      "feature_name": "age"
+      "feature_name": "age",
+      "index": {
+        "$": 2,
+        "type": "xsd:int"
+      }
     },
-    "entity:b075f693-4aae-4e83-a8a0-de1f7766f35d": {
-      "record_id": "e71b7470-70f5-4dc1-bddb-842b2d6a80d3",
+    "entity:94ac40c1-1cdb-47b7-ab0a-681bf93c3c33": {
+      "record_id": "baec7952-0d50-4373-ae98-e1563a1e8592",
       "value": "F",
-      "feature_name": "c_charge_degree"
+      "feature_name": "c_charge_degree",
+      "index": {
+        "$": 2,
+        "type": "xsd:int"
+      }
     },
-    "entity:7b5e34e5-6d95-49ee-99a0-ac331b74e486": {
-      "record_id": "e71b7470-70f5-4dc1-bddb-842b2d6a80d3",
+    "entity:470c6dc8-b749-4b6d-85b0-e3f9c228a804": {
+      "record_id": "baec7952-0d50-4373-ae98-e1563a1e8592",
       "value": "African-American",
-      "feature_name": "race"
+      "feature_name": "race",
+      "index": {
+        "$": 2,
+        "type": "xsd:int"
+      }
     }
   }
 }

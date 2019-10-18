@@ -12,3 +12,12 @@ get_prov_feature_transformation function took 1138.903 ms
 [16/10-21:13:46]get_prov_space_transformation function took 1141.816 ms
 [16/10-21:13:46]get_prov_dim_reduction function took 418.452 ms
 [16/10-21:13:47]get_prov_feature_transformation function took 896.531 ms
+[17/10-14:27:58]get_prov_feature_selection function took 10262.610 ms
+[17/10-14:27:59]get_prov_dim_reduction function took 258.190 ms
+[17/10-14:30:45]get_prov_feature_selection function took 8681.953 ms
+[17/10-14:30:45]get_prov_dim_reduction function took 271.327 ms
+[17/10-14:30:46]get_prov_binarizer function took 869.079 ms
+[17/10-14:30:47]get_prov_feature_transformation function took 953.963 ms
+[17/10-14:30:48]get_prov_space_transformation function took 1356.535 ms
+[17/10-14:30:49]get_prov_dim_reduction function took 482.111 ms
+[17/10-14:30:50]get_prov_feature_transformation function took 952.245 ms

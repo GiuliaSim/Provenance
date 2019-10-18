@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "activity:49d653ec-cbfc-474a-8a28-2c937f0e3e5c",
+        "identifier": "activity:c1402334-1a5a-45dd-b1a2-0993532be0c7",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "workclass",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "identifier": "activity:f4d7dcd8-1e4e-4e4d-b7ff-fd0d198d7537",
+        "identifier": "activity:33b59644-8f0a-4fe0-b235-9e2df4f3495a",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "education",
@@ -16,7 +16,7 @@
         }
     },
     {
-        "identifier": "activity:1a182373-6c05-4baa-9a41-c9b7b3d15be6",
+        "identifier": "activity:deee8897-07fe-46e7-8113-fb7b4727bdf2",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "marital-status",
@@ -24,7 +24,7 @@
         }
     },
     {
-        "identifier": "activity:1e26d47f-27af-40dc-ab56-6ca6a6850c90",
+        "identifier": "activity:adf66c13-6f07-4164-bf54-216bb7dc2ec6",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "occupation",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "identifier": "activity:3a90621f-918e-4dc9-9394-669a56481ae5",
+        "identifier": "activity:99a4bade-7422-49ed-928c-0528670bd1a3",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "relationship",
@@ -40,7 +40,7 @@
         }
     },
     {
-        "identifier": "activity:f469dc50-8a1a-4347-b8cf-b758dc3195e3",
+        "identifier": "activity:f0bd5876-cbc6-43c0-b796-954dcf7dbdd8",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "race",
@@ -48,7 +48,7 @@
         }
     },
     {
-        "identifier": "activity:1979bea9-533e-4e15-8ff8-435c81b49356",
+        "identifier": "activity:443cd0b1-0c8f-44b9-a4e0-5a80eaa3630e",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "sex",
@@ -56,7 +56,7 @@
         }
     },
     {
-        "identifier": "activity:624abde2-8481-4926-b788-fd1d958378cb",
+        "identifier": "activity:a9f30fd8-550e-4022-a57f-490dd57c14e8",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "native-country",
@@ -64,7 +64,7 @@
         }
     },
     {
-        "identifier": "activity:8110825a-eb81-4f9e-a8d8-35640529db6f",
+        "identifier": "activity:aef40004-4523-4088-91c0-608fcd05324e",
         "attributes": {
             "function_name": "Cleanup names from spaces",
             "features_name": "label",

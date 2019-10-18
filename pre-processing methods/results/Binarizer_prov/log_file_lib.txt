@@ -1,0 +1,2 @@
+get_prov_binarizer function took 2.682 ms
+get_prov_binarizer function took 2.549 ms

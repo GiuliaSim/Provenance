@@ -1,0 +1,14 @@
+[16/10-21:12:10]get_prov_feature_selection function took 37255.455 ms
+[16/10-21:12:10]get_prov_dim_reduction function took 383.682 ms
+[16/10-21:12:15]get_prov_binarizer function took 2650.538 ms
+[16/10-21:12:18]get_prov_feature_transformation function took 2888.874 ms
+[16/10-21:12:22]get_prov_space_transformation function took 4161.299 ms
+[16/10-21:12:24]get_prov_dim_reduction function took 1643.720 ms
+[16/10-21:12:27]get_prov_feature_transformation function took 3570.521 ms
+[17/10-14:36:29]get_prov_feature_selection function took 37996.197 ms
+[17/10-14:36:30]get_prov_dim_reduction function took 362.062 ms
+[17/10-14:36:36]get_prov_binarizer function took 3895.130 ms
+[17/10-14:36:40]get_prov_feature_transformation function took 4496.656 ms
+[17/10-14:36:50]get_prov_space_transformation function took 10036.953 ms
+[17/10-14:36:54]get_prov_dim_reduction function took 3712.537 ms
+[17/10-14:37:02]get_prov_feature_transformation function took 7227.544 ms

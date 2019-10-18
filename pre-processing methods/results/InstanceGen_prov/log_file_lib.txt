@@ -1,0 +1,2 @@
+get_prov_instance_generation function took 8.149 ms
+[17/10-14:18:26]get_prov_instance_generation function took 7.651 ms
