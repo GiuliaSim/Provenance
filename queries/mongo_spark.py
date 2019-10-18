@@ -1,5 +1,4 @@
 import pymongo
-from pymongo import MongoClient
 from pyspark.sql import SparkSession
 
 
@@ -55,7 +54,7 @@ if __name__ == "__main__":
 	# df.toDF().show(10, False)
 
 
-	#client = MongoClient('localhost', 27017)
+	#client = pymongo.MongoClient('localhost', 27017)
 	#db = client['german_prov']
 	#entities = db.entities
 	#activities = db.activities
