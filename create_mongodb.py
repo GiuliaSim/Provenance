@@ -1,12 +1,11 @@
-import pymongo
-from pymongo import MongoClient
+import pymongo 
 import sys
 import os
 import json
 
 
 def main(dbname, path):
-	client = MongoClient('localhost', 27017)
+	client = pymongo.MongoClient('localhost', 27017)
 	print('Connected to: localhost')
 
 	dblist = client.list_database_names()
@@ -20,23 +19,24 @@ def main(dbname, path):
 		relations = db['relations']
 
 		for folder in os.listdir(path):
-			for file in os.listdir(path + folder):
-				file_path = os.path.join(path, folder, file)
-				if file.startswith('entities') and file.endswith('.json'):
-					with open(file_path) as f:
-						file_data = json.load(f)
-						entities.insert_many(file_data)
-						print('Imported entities: ' + file_path)
-				if file.startswith('activities') and file.endswith('.json'):
-					with open(file_path) as f:
-						file_data = json.load(f)
-						activities.insert_many(file_data)
-						print('Imported activities: ' + file_path)
-				if file.startswith('relations') and file.endswith('.json'):
-					with open(file_path) as f:
-						file_data = json.load(f)
-						relations.insert_many(file_data)
-						print('Imported relations: ' + file_path)
+			if os.path.isdir(os.path.join(path,folder)):
+				for file in os.listdir(os.path.join(path, folder)):
+					file_path = os.path.join(path, folder, file)
+					if file.startswith('entities') and file.endswith('.json'):
+						with open(file_path) as f:
+							file_data = json.load(f)
+							entities.insert_many(file_data)
+							print('Imported entities: ' + file_path)
+					if file.startswith('activities') and file.endswith('.json'):
+						with open(file_path) as f:
+							file_data = json.load(f)
+							activities.insert_many(file_data)
+							print('Imported activities: ' + file_path)
+					if file.startswith('relations') and file.endswith('.json'):
+						with open(file_path) as f:
+							file_data = json.load(f)
+							relations.insert_many(file_data)
+							print('Imported relations: ' + file_path)
 
 		client.close()
 
