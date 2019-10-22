@@ -79,9 +79,7 @@ if __name__ == "__main__":
 
 	print('Done')
 
-	out = list(out)
-	print(out[0])
-	print(len(out))
+	
 	client.close()
 
 
