@@ -4,82 +4,57 @@
 import pymongo
 #from pyspark.sql import SparkSession
 import pandas as pd
+import pprint
+
+
+def get_why_prov(relations, entities):
+	acts = []	
+	generated_act = relations.find({'prov:entity': {'$in':entities}, 'prov:relation_type':'wasGeneratedBy'})
+	for act in generated_act:
+		act_id = act['prov:activity']
+		if act_id not in acts:
+			acts.append(act_id)
+
+	ents = []
+	used_ent = relations.find({'prov:activity':{'$in':acts}, 'prov:relation_type':'used'})
+	for ent in used_ent:
+		ent_id = ent['prov:entity']
+		if ent_id not in ents:
+			ents.append(ent_id)
+
+	if not acts:
+		return entities
+	else:
+		return get_why_prov(relations, ents)
+
+	
+
+
+
 
 
 if __name__ == "__main__":
 
-	data = pd.read_csv('../results/GermanCredit_prov/german_onehot.csv') 
-	columns = data.columns
-	m, n = data.shape
+	#data = pd.read_csv('../results/GermanCredit_prov/german_onehot.csv') 
+	#columns = data.columns
+	#m, n = data.shape
+	#print(m, n)
+
+	entity_id = 'entity:0d69c672-d521-498e-aa94-7773f634fb39'
 	
-	print(m, n)
 
 	client = pymongo.MongoClient('localhost', 27017)
 	db = client['german_prov']
 
 	entities = db.entities
-	activities = db.activities
 	relations = db.relations
 
-	# Get entities with max instance number. (Last entities)
-	# last_entities = entities.aggregate([ \
-	#     {'$sort': {'attributes.instance':-1}}, \
-	#     {'$group': {'_id': '$identifier'}} \
-	#     #{'$group': {'_id': '$identifier', 'instance': {'$first': '$attributes.instance'}, '_id_seen': {'$first': '$_id'}}} \
-	# ])
+	ents = get_why_prov(relations, [entity_id])
 
-	#last_entities = list(last_entities)
+	why_prov = entities.find({'identifier':{'$in':ents}})
 
-	#print(last_entities[0])
-	#print(len(last_entities))
-
-	# Get wasInvalidatedBy relations
-	#invalidated_rel = relations.find({'relation_type':'wasInvalidatedBy'})
+	print(why_prov.explain())
 
 
-	# out = entities.aggregate([ \
-	# 	{'$sort': {'attributes.instance':-1}}, \
-	#     {'$group': {'_id': '$identifier'}}, \
-	# 	{'$lookup': \
-	# 	            { \
-	# 	                'from': 'relations', \
-	# 	                'localField': 'identifier', \
-	# 	                'foreignField': 'prov:entity', \
-	# 	                'as': 'invalidated' \
-	# 	            } \
-	# 	}, \
-	# 	{ '$match': { 'invalidated.relation_type': 'wasInvalidatedBy' } }
-	# ]) \
-
-
-	out = entities.aggregate([
-		#{'$sort': {'attributes.instance':-1}}, \
-	    #{'$group': {'_id': '$identifier'}}, \
-	    {'$lookup': \
-	    	{ \
-	    		'from': 'relations', \
-	    		'let': { 'entity': "$identifier"}, \
-	    		'pipeline': [ \
-	    			{ '$match': \
-	    				{ '$expr': \
-	    					{ '$and': \
-	    						[ \
-	    							{ 'relation_type': 'wasInvalidatedBy'}, \
-	    							{ '$eq': [ "$prov:entity",  "$$entity" ] } \
-	    						] \
-	    					} \
-	    				} \
-	    			}, \
-	    			#{ $project: { stock_item: 0, _id: 0 } } \
-	    		], \
-	    		'as': "invalidated" \
-	    	} \
-	    } \
-	])
-
-	print('Done')
-
-	
-	client.close()
 
 
