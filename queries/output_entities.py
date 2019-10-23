@@ -21,32 +21,30 @@ if __name__ == "__main__":
 	relations = db.relations
 
 	out = entities.aggregate([
-		{'$sort': {'attributes.instance':-1}}, \
-		{'$group': { \
-			'_id': '$identifier', \
-			'record_id': {'$first': '$attributes.record_id'}, \
-			'value': {'$first': '$attributes.value'}, \
-			'feature_name': {'$first': '$attributes.feature_name'}, \
-			'index': {'$first': '$attributes.index'}, \
-			'instance': {'$first': '$attributes.instance'} \
-		}}, \
-	    #{'$group': {'_id': '$identifier', 'instance':{'$max':'$attributes.instance'}}}, \
 	    {'$lookup': \
 	    	{ \
 	    		'from': 'relations', \
-	    		'let': { 'entity': '$_id', 'relation_type': '$relation_type' }, \
+	    		'let': { 'entity': '$identifier', 'relation_type': '$relation_type' }, \
 	    		'pipeline': [ \
 	    			{ '$match': \
 	    				{ '$expr': \
-	    					{ '$and': \
-	    						[ \
-	    							{ '$eq': ['$$relation_type', 'wasInvalidatedBy']}, \
-	    							{ '$eq': [ '$prov:entity',  '$$entity' ] } \
-	    						] \
-	    					} \
+	    					{ '$or': [ \
+	    						{'$and': \
+		    						[ \
+		    							{ '$eq': ['$$relation_type', 'wasInvalidatedBy']}, \
+		    							{ '$eq': [ '$prov:entity',  '$$entity' ] } \
+		    						] \
+		    					}, \
+		    					{'$and': \
+		    						[ \
+		    							{ '$eq': ['$$relation_type', 'wasDerivedFrom']}, \
+		    							{ '$eq': [ '$prov:usedEntity',  '$$entity' ] } \
+		    						] \
+		    					} \
+
+	    					]} \
 	    				} \
 	    			}, \
-	    			#{ $project: { stock_item: 0, _id: 0 } } \
 	    		], \
 	    		'as': "invalidated" \
 	    	} \
@@ -56,7 +54,7 @@ if __name__ == "__main__":
 	    		'invalidated': [] \
 	    	} \
 	    }, \
-	    {'$out': 'outputs'}
+	    #{'$out': 'outputs'}
 	])
 
 	print('Done')
