@@ -3,3 +3,8 @@
 [16/10-21:20:36]get_prov_onehot_encode function took 46757.789 ms
 [16/10-21:20:44]get_prov_feature_transformation function took 8180.197 ms
 [16/10-21:20:45]get_prov_dim_reduction function took 955.442 ms
+[24/10-18:09:12]get_prov_feature_transformation function took 45998.257 ms
+[24/10-18:09:19]get_prov_value_transformation function took 7234.384 ms
+[24/10-18:10:12]get_prov_onehot_encode function took 52846.903 ms
+[24/10-18:10:23]get_prov_feature_transformation function took 10382.146 ms
+[24/10-18:10:24]get_prov_dim_reduction function took 1010.281 ms

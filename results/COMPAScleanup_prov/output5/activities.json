@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "activity:09f03f16-fde7-4237-a3dc-784325312f03",
+        "identifier": "activity:4cba5ff0-dc20-4edb-adda-bd5aeffbe13b",
         "attributes": {
             "function_name": "Dimensionality reduction",
             "features_name": "c_jail_out, c_jail_in",

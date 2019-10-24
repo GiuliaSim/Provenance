@@ -1,1 +1,2 @@
 get_prov_onehot_encode function took 32.641 ms
+[24/10-17:56:31]get_prov_onehot_encode function took 40.370 ms

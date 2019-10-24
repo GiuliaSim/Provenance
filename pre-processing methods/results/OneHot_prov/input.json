@@ -5,65 +5,89 @@
     "default": "default"
   },
   "entity": {
-    "entity:25faaa72-1e6e-40ef-acfb-4f00937ff03c": {
-      "record_id": "14469e8b-2b99-42fd-bd57-1d6ceda997e9",
+    "entity:a9d658fd-1501-4a54-a7f9-97760f9ca45f": {
+      "record_id": "f8ec9828-8362-40c9-b982-f5ec866592e4",
       "value": "check_low",
-      "feature_name": "checking"
+      "feature_name": "checking",
+      "index": "0",
+      "instance": "-1"
     },
-    "entity:3b567938-0a2c-4bea-b072-f3adf449a6a8": {
-      "record_id": "14469e8b-2b99-42fd-bd57-1d6ceda997e9",
+    "entity:a615d7cf-d181-4ee0-ae0e-aadb2969bd46": {
+      "record_id": "f8ec9828-8362-40c9-b982-f5ec866592e4",
       "value": "6",
-      "feature_name": "duration"
+      "feature_name": "duration",
+      "index": "0",
+      "instance": "-1"
     },
-    "entity:d47ff815-52c6-4de8-93ac-673fb56ad8c2": {
-      "record_id": "14469e8b-2b99-42fd-bd57-1d6ceda997e9",
+    "entity:e913b8e5-264b-4ae4-824c-8a88e71544b4": {
+      "record_id": "f8ec9828-8362-40c9-b982-f5ec866592e4",
       "value": "debt_critical",
-      "feature_name": "credit_history"
+      "feature_name": "credit_history",
+      "index": "0",
+      "instance": "-1"
     },
-    "entity:53505a6f-80a0-4a5f-af6a-2b5e6db22a39": {
-      "record_id": "58305d23-6f17-411a-b15b-a656f280b3d0",
+    "entity:82950185-d6f8-44e1-bbc1-86b642bffad8": {
+      "record_id": "4bdb0656-eb7b-41ca-927a-dc0a68533e91",
       "value": "check_mid",
-      "feature_name": "checking"
+      "feature_name": "checking",
+      "index": "1",
+      "instance": "-1"
     },
-    "entity:5df2bf14-09ec-4013-8ccc-45423758393c": {
-      "record_id": "58305d23-6f17-411a-b15b-a656f280b3d0",
+    "entity:ce608597-c277-4fd5-b03e-5c23cffed634": {
+      "record_id": "4bdb0656-eb7b-41ca-927a-dc0a68533e91",
       "value": "48",
-      "feature_name": "duration"
+      "feature_name": "duration",
+      "index": "1",
+      "instance": "-1"
     },
-    "entity:e23195b3-2388-46b5-9748-c2fc0b722f80": {
-      "record_id": "58305d23-6f17-411a-b15b-a656f280b3d0",
+    "entity:a2ae4bac-b535-4f17-a459-b061db1f7e13": {
+      "record_id": "4bdb0656-eb7b-41ca-927a-dc0a68533e91",
       "value": "debt_onSchedule",
-      "feature_name": "credit_history"
+      "feature_name": "credit_history",
+      "index": "1",
+      "instance": "-1"
     },
-    "entity:92dd32e6-ded4-4f0f-8426-70e5e9027e13": {
-      "record_id": "b50afb4b-c330-4a9c-a33e-62d9f7a54be0",
+    "entity:112ba5a9-e55d-42ae-a1b1-28c417a4fb19": {
+      "record_id": "596e371d-5c2c-4016-ab21-21cc84ead25f",
       "value": "check_none",
-      "feature_name": "checking"
+      "feature_name": "checking",
+      "index": "2",
+      "instance": "-1"
     },
-    "entity:9d0df930-838e-4eb7-b6f1-9e1df864562b": {
-      "record_id": "b50afb4b-c330-4a9c-a33e-62d9f7a54be0",
+    "entity:29f1a3d9-7d6c-48b8-9975-88a590212eac": {
+      "record_id": "596e371d-5c2c-4016-ab21-21cc84ead25f",
       "value": "12",
-      "feature_name": "duration"
+      "feature_name": "duration",
+      "index": "2",
+      "instance": "-1"
     },
-    "entity:d8f8ae79-e54f-42c0-b72a-16e73116be22": {
-      "record_id": "b50afb4b-c330-4a9c-a33e-62d9f7a54be0",
+    "entity:ff71267f-bce9-4ab3-9116-46cd0f91a2cb": {
+      "record_id": "596e371d-5c2c-4016-ab21-21cc84ead25f",
       "value": "debt_critical",
-      "feature_name": "credit_history"
+      "feature_name": "credit_history",
+      "index": "2",
+      "instance": "-1"
     },
-    "entity:08039766-253d-44a3-aec7-5eadd3417e92": {
-      "record_id": "e13dcf46-98ff-4664-91ae-2cc7c4bcdf81",
+    "entity:467f5df3-2f31-44e0-96f0-96afb500beae": {
+      "record_id": "b64bae01-8d2f-4d18-aa2b-721dd647d288",
       "value": "check_low",
-      "feature_name": "checking"
+      "feature_name": "checking",
+      "index": "3",
+      "instance": "-1"
     },
-    "entity:941388af-0708-4ded-b193-a82edf9a5ff2": {
-      "record_id": "e13dcf46-98ff-4664-91ae-2cc7c4bcdf81",
+    "entity:a707de3a-ff41-4a98-ba17-7bdab1162a82": {
+      "record_id": "b64bae01-8d2f-4d18-aa2b-721dd647d288",
       "value": "42",
-      "feature_name": "duration"
+      "feature_name": "duration",
+      "index": "3",
+      "instance": "-1"
     },
-    "entity:63783511-ff3f-4e24-8be3-877c42addc64": {
-      "record_id": "e13dcf46-98ff-4664-91ae-2cc7c4bcdf81",
+    "entity:85e10b4c-1e59-44d3-bf67-5be002828b18": {
+      "record_id": "b64bae01-8d2f-4d18-aa2b-721dd647d288",
       "value": "debt_onSchedule",
-      "feature_name": "credit_history"
+      "feature_name": "credit_history",
+      "index": "3",
+      "instance": "-1"
     }
   }
 }

@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "activity:dbfa08f1-47d7-4f68-8747-d23004f93e9f",
+        "identifier": "activity:5c8a0592-b942-4b39-895a-f0ece77e23c1",
         "attributes": {
             "function_name": "OneHot Encoding",
             "features_name": "workclass",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "identifier": "activity:8afa0799-f855-43e5-ab0e-b23846760c91",
+        "identifier": "activity:64314e0f-5f9c-4cc4-84de-c83d996079d1",
         "attributes": {
             "function_name": "OneHot Encoding",
             "features_name": "race",

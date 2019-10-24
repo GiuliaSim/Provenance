@@ -14,3 +14,7 @@ get_prov_onehot_encode function took 18770.460 ms
 [17/10-15:58:02]get_prov_space_transformation function took 1072.683 ms
 [17/10-15:58:02]get_prov_dim_reduction function took 240.753 ms
 [17/10-15:58:24]get_prov_onehot_encode function took 22255.401 ms
+[24/10-17:59:30]get_prov_feature_transformation function took 10455.051 ms
+[24/10-17:59:32]get_prov_space_transformation function took 1408.666 ms
+[24/10-17:59:32]get_prov_dim_reduction function took 183.324 ms
+[24/10-17:59:53]get_prov_onehot_encode function took 21231.838 ms

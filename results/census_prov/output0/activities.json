@@ -1,73 +1,82 @@
 [
     {
-        "identifier": "activity:c1402334-1a5a-45dd-b1a2-0993532be0c7",
+        "identifier": "activity:ae30fad6-c2a9-4ebd-9b23-c8d879514a18",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "workclass",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:33b59644-8f0a-4fe0-b235-9e2df4f3495a",
+        "identifier": "activity:7e71e252-195a-47ad-95a0-270965161742",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "education",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:deee8897-07fe-46e7-8113-fb7b4727bdf2",
+        "identifier": "activity:5c06bf26-a49e-4fb5-b91b-f47e193b9c64",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "marital-status",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:adf66c13-6f07-4164-bf54-216bb7dc2ec6",
+        "identifier": "activity:4de4c291-6fb0-4d39-9843-95732ef5f3bb",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "occupation",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:99a4bade-7422-49ed-928c-0528670bd1a3",
+        "identifier": "activity:cb951b9b-9415-45ba-b8ce-1306db2c62fa",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "relationship",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:f0bd5876-cbc6-43c0-b796-954dcf7dbdd8",
+        "identifier": "activity:d8f3d9c3-02fd-4707-ad5f-f7608aed1327",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "race",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:443cd0b1-0c8f-44b9-a4e0-5a80eaa3630e",
+        "identifier": "activity:cfe53ea8-6a55-45ef-aa3e-4955b4ac229f",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "sex",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:a9f30fd8-550e-4022-a57f-490dd57c14e8",
+        "identifier": "activity:3b2a37e4-53b3-4f9d-a45c-fbd7eaf91675",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "native-country",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     },
     {
-        "identifier": "activity:aef40004-4523-4088-91c0-608fcd05324e",
+        "identifier": "activity:69639e62-fb18-421e-9405-64c44b2d709f",
         "attributes": {
-            "function_name": "Cleanup names from spaces",
+            "function_name": "Feature Transformation",
             "features_name": "label",
+            "description": "Cleanup names from spaces",
             "operation_number": "0"
         }
     }

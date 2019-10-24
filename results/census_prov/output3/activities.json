@@ -1,17 +1,19 @@
 [
     {
-        "identifier": "activity:51f9a55d-576b-44b7-b20a-c28c0612ab36",
+        "identifier": "activity:730f92a7-3980-41ae-9b22-83ab5d19f50b",
         "attributes": {
-            "function_name": "Assign sex and label binary values 0 and 1",
+            "function_name": "Feature Transformation",
             "features_name": "sex",
+            "description": "Assign sex and label binary values 0 and 1",
             "operation_number": "3"
         }
     },
     {
-        "identifier": "activity:7bd7d8dd-ffe3-47f6-a0ca-b31d9f0e8ce2",
+        "identifier": "activity:1af69182-7ab8-46e2-a6ab-c546e00f3ab9",
         "attributes": {
-            "function_name": "Assign sex and label binary values 0 and 1",
+            "function_name": "Feature Transformation",
             "features_name": "label",
+            "description": "Assign sex and label binary values 0 and 1",
             "operation_number": "3"
         }
     }
