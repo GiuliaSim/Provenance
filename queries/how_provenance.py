@@ -2,7 +2,6 @@
 # Input:  $d_{ij}$
 
 import pymongo
-#from pyspark.sql import SparkSession
 import pandas as pd
 import pprint
 
@@ -46,7 +45,7 @@ if __name__ == "__main__":
 	# Getting a Database:
 	db = client['german_prov']
 
-	# Get entities and relations mongodb collection:
+	# Get entities, activities and relations mongodb collection:
 	entities = db.entities
 	activities = db.activities
 	relations = db.relations
@@ -54,13 +53,16 @@ if __name__ == "__main__":
 	# Element identifier $d_{ij}$:
 	entity_id = 'entity:0d69c672-d521-498e-aa94-7773f634fb39'
 
+	# Get the inputs ids and activities id that created an element:
 	ents, acts = get_how_prov(relations, [entity_id])
 
+	# Find mongodb documents from identifier list:
 	why_prov = entities.find({'identifier':{'$in':ents}})
 	methods = activities.find({'identifier':{'$in':acts}})
 
 	#for m in methods:
 	#	print(m)
 
+	# Print description of input entities and preprocessing methods that created the element $d_{ij}$:
 	print(why_prov.explain())
 	print(methods.explain())

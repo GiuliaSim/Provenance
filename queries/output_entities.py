@@ -24,20 +24,20 @@ if __name__ == "__main__":
 	    {'$lookup': \
 	    	{ \
 	    		'from': 'relations', \
-	    		'let': { 'entity': '$identifier', 'relation_type': '$relation_type' }, \
+	    		'let': { 'entity': '$identifier'}, \
 	    		'pipeline': [ \
 	    			{ '$match': \
 	    				{ '$expr': \
 	    					{ '$or': [ \
 	    						{'$and': \
 		    						[ \
-		    							{ '$eq': ['$$relation_type', 'wasInvalidatedBy']}, \
+		    							{ '$eq': ['$relation_type', 'wasInvalidatedBy']}, \
 		    							{ '$eq': [ '$prov:entity',  '$$entity' ] } \
 		    						] \
 		    					}, \
 		    					{'$and': \
 		    						[ \
-		    							{ '$eq': ['$$relation_type', 'wasDerivedFrom']}, \
+		    							{ '$eq': ['$relation_type', 'wasDerivedFrom']}, \
 		    							{ '$eq': [ '$prov:usedEntity',  '$$entity' ] } \
 		    						] \
 		    					} \
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 	    		'invalidated': [] \
 	    	} \
 	    }, \
-	    #{'$out': 'outputs'}
+	    {'$out': 'outputs'}
 	])
 
 	print('Done')
