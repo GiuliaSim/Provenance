@@ -5,14 +5,13 @@ import pymongo
 import pandas as pd
 import pprint
 
-def get_item_operation(relations, entity_id):
+def get_item_operation(entity_id):
 	acts = relations.find({'prov:entity': {'$in': entity_id}}, {'prov:activity': 1, '_id': 0}).distinct('prov:activity')
 	used_ents = relations.find({'prov:generatedEntity': {'$in': entity_id}}, {'prov:usedEntity': 1, '_id': 0}).distinct('prov:usedEntity')
 	if used_ents:
-		return acts + get_item_operation(relations, used_ents)
+		return acts + get_item_operation(used_ents)
 	else:
 		return acts
-
 
 if __name__ == "__main__":
 
@@ -28,10 +27,10 @@ if __name__ == "__main__":
 	relations = db.relations
 
 	# Element identifier $d_{ij}$:
-	entity_id = 'entity:0d69c672-d521-498e-aa94-7773f634fb39'
+	entity_id = 'entity:80a19bef-6fc4-4ce8-bac4-455afdf4abb0'
 
 	# Get the activities id that were applied to element:
-	acts = get_item_operation(relations, [entity_id])
+	acts = get_item_operation([entity_id])
 
 	# Find mongodb documents from identifier list:
 	methods = activities.find({'identifier':{'$in':acts}})
@@ -41,3 +40,6 @@ if __name__ == "__main__":
 
 	# Print description of input entities and preprocessing methods that created the element $d_{ij}$:
 	#pprint.pprint(methods.explain())
+	
+	# Close Mongodb connection:
+	client.close()

@@ -5,13 +5,13 @@ import pymongo
 import pandas as pd
 import pprint
 
-def get_invalid_items(relations, entities):
+def get_invalid_items():
 	'''All $d_{ij}$ that were deleted'''
-	ents_id = relations.find({'prov:relation_type': 'wasInvalidatedBy'}, {'prov:entity': 1, '_id': 0})
+	ents_id = relations.find({'prov:relation_type': 'wasInvalidatedBy'}, {'prov:entity': 1, '_id': 0}).distinct('prov:entity')
 	invalid_ents = entities.find({'identifier': {'$in': ents_id}})
 	return invalid_ents
 
-def get_invalid_features(activities):
+def get_invalid_features():
 	'''All $D_{*j}$ that were deleted'''
 	# Get invalidated entities id:
 	invalid_ents_id = relations.find({'prov:relation_type': 'wasInvalidatedBy'}, {'prov:entity': 1, '_id': 0}).distinct('prov:entity')
@@ -21,7 +21,7 @@ def get_invalid_features(activities):
 		{'$group': {'_id': '$attributes.feature_name', 'entities': {'$addToSet': '$identifier'}}} \
 	])
 
-	# Get deleted records
+	# Get deleted features
 	# If all feature entities are invalidated, the feature is deleted
 	invalid_features = []
 	for feature in features:
@@ -38,7 +38,7 @@ def get_invalid_features(activities):
 	return invalid_features
 
 
-def get_invalid_records(relations, entities):
+def get_invalid_records():
 	'''All $D_{i*}$ that were deleted'''
 	# Get invalidated entities id:
 	invalid_ents_id = relations.find({'prov:relation_type': 'wasInvalidatedBy'}, {'prov:entity': 1, '_id': 0}).distinct('prov:entity')
@@ -78,14 +78,17 @@ if __name__ == "__main__":
 	relations = db.relations
 
 	# Get the entities that were deleted:
-	invalid_ents = get_invalid_items(relations, entities)
+	invalid_ents = get_invalid_items()
 
 	# Get the features name that were deleted:
-	invalid_features = get_invalid_features(activities)
+	invalid_features = get_invalid_features()
 	print('DELETED FEATURES NAME:')
 	pprint.pprint(invalid_features)
 
 	# Get the record_id that were deleted:
-	invalid_records = get_invalid_records(relations, entities)
+	invalid_records = get_invalid_records()
 	print('DELETED RECORDS ID:')
 	pprint.pprint(invalid_records)
+	
+	# Close Mongodb connection:
+	client.close()

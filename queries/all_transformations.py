@@ -18,10 +18,13 @@ def all_transformations(db):
 
 if __name__ == "__main__":
 
-	#data = pd.read_csv('../results/GermanCredit_prov/german_onehot.csv') 
-	#columns = data.columns
-	#index = data.index
-
+	# Connect with MongoClient on the default host and port:
 	client = pymongo.MongoClient('localhost', 27017)
+	
+	# Getting a Database:
 	db = client['german_prov']
+	
 	all_transformations(db)
+
+	# Close Mongodb connection:
+	client.close()

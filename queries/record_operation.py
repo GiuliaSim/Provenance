@@ -5,10 +5,8 @@ import pymongo
 import pandas as pd
 import pprint
 
-def get_record_operation(entities, record_id):
-	# Get list of entities id related to the record:
-	#ents = entities.find({'attributes.record_id':record_id}, {'identifier':1,'_id':0}).distinct('identifier')
-
+def get_record_operation(record_id):
+	# Get list of activities id related to the record:
 	out = entities.aggregate([
 		{'$match': \
 			{'attributes.record_id': record_id}
@@ -27,18 +25,14 @@ def get_record_operation(entities, record_id):
 	    		'as': "relations" \
 	    	} \
 	    }, \
-	    {'$project': {'relations.prov:activity': 1, '_id': 0}} \
+	    {'$project': {'activities': '$relations.prov:activity', '_id': 0}} \
 	])
 
 	acts = []
 	for elem in out:
-		for act in elem['relations']:
-			act_id = act['prov:activity']
-			acts.append(act_id)
+		acts += elem['activities']
 
 	return acts
-
-
 
 if __name__ == "__main__":
 
@@ -53,10 +47,10 @@ if __name__ == "__main__":
 	activities = db.activities
 
 	# Record identifier $D_{i*}$:
-	record_id = 'b5560de6-226c-4ea5-aeb6-6213e462ec5b'
+	record_id = 'f8c0771d-8147-4dc9-bd66-b6119755effe'
 
 	# Get the activities id that were applied to record_id:
-	acts = get_record_operation(entities, record_id)
+	acts = get_record_operation(record_id)
 
 	# Find mongodb documents from atcs list:
 	methods = activities.find({'identifier':{'$in': acts}})
@@ -66,4 +60,6 @@ if __name__ == "__main__":
 
 	# Print description of preprocessing methods that were applied to record, $D_{i*}$:
 	#pprint.pprint(methods.explain())
-
+	
+	# Close Mongodb connection:
+	client.close()

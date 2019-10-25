@@ -5,8 +5,7 @@ import pymongo
 import pandas as pd
 import pprint
 
-
-def get_how_prov(relations, entities, ents_id):
+def get_how_prov(ents_id):
 	# Get input entities from ents_id:
 	input_entities = entities.find({'identifier':{'$in': ents_id}, 'attributes.instance':'-1'},{'identifier':1,'_id':0}).distinct('identifier')
 	
@@ -15,27 +14,16 @@ def get_how_prov(relations, entities, ents_id):
 	ents_id = diff(ents_id, input_entities)
 	
 	# Find the activities that generated the ents_id:
-	acts = []	
-	generated_act = relations.find({'prov:entity': {'$in':ents_id}, 'prov:relation_type':'wasGeneratedBy'})
-	for act in generated_act:
-		act_id = act['prov:activity']
-		if act_id not in acts:
-			acts.append(act_id)
+	generated_act = relations.find({'prov:entity': {'$in':ents_id}, 'prov:relation_type':'wasGeneratedBy'}).distinct('prov:activity')
 
-	if not acts:
-		return (input_entities, acts)
+	if not generated_act:
+		return (input_entities, generated_act)
 	else:
 		# Find the entities used by the activities:
-		ents = []
-		used_ent = relations.find({'prov:activity':{'$in':acts}, 'prov:relation_type':'used'})
-		for ent in used_ent:
-			ent_id = ent['prov:entity']
-			if ent_id not in ents:
-				ents.append(ent_id)
+		used_ent = relations.find({'prov:activity':{'$in':generated_act}, 'prov:relation_type':'used'}).distinct('prov:entity')
 
-		e, a = get_how_prov(relations, ents)
-		return (input_entities + e, acts + a)
-
+		e, a = get_how_prov(used_ent)
+		return (input_entities + e, generated_act + a)
 
 if __name__ == "__main__":
 
@@ -51,18 +39,21 @@ if __name__ == "__main__":
 	relations = db.relations
 
 	# Element identifier $d_{ij}$:
-	entity_id = 'entity:0d69c672-d521-498e-aa94-7773f634fb39'
+	entity_id = 'entity:80a19bef-6fc4-4ce8-bac4-455afdf4abb0'
 
 	# Get the inputs ids and activities id that created an element:
-	ents, acts = get_how_prov(relations, [entity_id])
+	ents, acts = get_how_prov([entity_id])
 
 	# Find mongodb documents from identifier list:
 	why_prov = entities.find({'identifier':{'$in':ents}})
 	methods = activities.find({'identifier':{'$in':acts}})
 
-	#for m in methods:
-	#	print(m)
+	for m in methods:
+		pprint.pprint(m)
 
 	# Print description of input entities and preprocessing methods that created the element $d_{ij}$:
-	print(why_prov.explain())
-	print(methods.explain())
+	#pprint.pprint(why_prov.explain())
+	#pprint.pprint(methods.explain())
+
+	# Close Mongodb connection:
+	client.close()
